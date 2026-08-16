@@ -1195,7 +1195,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 #### Explainable Deep Learning
 
-* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 12,953 | 🐛 160 | 🌐 Python | 📅 2026-08-13 - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 12,952 | 🐛 160 | 🌐 Python | 📅 2026-08-13 - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 * [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data](https://github.com/MadryLab/backgrounds_challenge) ⭐ 144 | 🐛 6 | 🌐 Python | 📅 2020-10-02]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 
@@ -2125,4 +2125,4 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

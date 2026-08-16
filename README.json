@@ -377,7 +377,7 @@
             "last_commit": "2026-08-13T07:15:26Z",
             "owner": "jacobgil",
             "repo": "pytorch-grad-cam",
-            "stars": 12953
+            "stars": 12952
           }
         },
         {
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:49:49.913Z",
+    "last_updated": "2026-08-16T22:49:03.934Z",
     "original_repository": "SHI-Yu-Zhe/awesome-agi-cocosci",
     "original_repository_sha": "0ff4ed6ef214e4151669e5187cc7d9873219f974",
     "enhanced_repository": "enhansome/enhansome-agi-cocosci",
