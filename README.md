@@ -612,7 +612,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9) - ***Humanities and Social Sciences Communications***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987)]. \[[Code & Data](https://osf.io/sxtaq)]. \[[Dialogue Experimental Toolkit(DiET)](https://dialoguetoolkit.github.io/chattool/)]. The present study sets out to experimentally investigate how environmental factors come to shape the emergence of linguistic conventions. To this end, the authors adapt the classical Maze Game task to test the hypothesis that participants routinise different linguistic strategies to communicate positions in the maze contingent on particular environmental affordances (i.e. structure of the mazes). The results confirm that subtle environmental motivations drive the emergence of different communicative conventions in an otherwise identical task, suggesting that linguistic adaptations are highly sensitive to factors of the shared task environment.
 
-* [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool](https://github.com/gboeing/osmnx) ⭐ 5,812 | 🐛 1 | 🌐 Python | 📅 2026-07-31]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
+* [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool](https://github.com/gboeing/osmnx) ⭐ 5,813 | 🐛 1 | 🌐 Python | 📅 2026-07-31]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
 
 * [Saying what you mean in dialogue: A study in conceptual and semantic co-ordination](https://www.speech.kth.se/~edlund/bielefeld/references/garrod-and-anderson-1987.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=15377075954534820544\&hl=en\&as_sdt=0,5)].
 
@@ -1195,7 +1195,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 #### Explainable Deep Learning
 
-* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 12,952 | 🐛 160 | 🌐 Python | 📅 2026-08-13 - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 12,954 | 🐛 160 | 🌐 Python | 📅 2026-08-13 - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 * [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data](https://github.com/MadryLab/backgrounds_challenge) ⭐ 144 | 🐛 6 | 🌐 Python | 📅 2020-10-02]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 
@@ -1913,7 +1913,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 #### Intuitive Physics
 
-* [Intuitive Physics Reading List](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) ⭐ 22 | 🐛 0 | 📅 2024-08-02 - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
+* [Intuitive Physics Reading List](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) ⭐ 23 | 🐛 0 | 📅 2024-08-02 - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
 
 * [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=12085981794958916203)]. Hongjing Lu's review on intuitive physics.
 
@@ -2125,4 +2125,4 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
