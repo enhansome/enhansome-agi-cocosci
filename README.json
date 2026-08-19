@@ -1,474 +1,488 @@
 {
   "items": [
     {
-      "description": "Contributions are greatly welcomed! Please refer to Contribution Guidelines before taking any actions.\n",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Generative Modeling Explained",
+                  "description": "Statistical Machine Learning Tutorials, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 525593218,
+                    "language": null,
+                    "last_commit": "2023-01-07T07:17:12Z",
+                    "owner": "SHI-Yu-Zhe",
+                    "repo": "generative-modeling-explained",
+                    "stars": 63
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Energy-Based Models by Diffusion Recovery Likelihood",
+                  "description": "ICLR'21, 2021. [All Versions]. [Code].",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 348603050,
+                    "language": "Python",
+                    "last_commit": "2021-03-17T07:34:49Z",
+                    "owner": "ruiqigao",
+                    "repo": "recovery_likelihood",
+                    "stars": 54
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Latent Space Energy-Based Prior Model",
+                  "description": "NeurIPS'20, 2020. [All Versions]. [Project]. [Code]. A milestone paper on Latent Energy-Based Model.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305342315,
+                    "language": "Python",
+                    "last_commit": "2020-10-20T11:40:41Z",
+                    "owner": "bpucla",
+                    "repo": "latent-space-EBM-prior",
+                    "stars": 36
+                  }
+                }
+              ],
+              "description": "*Back to Top",
+              "node_type": "group",
+              "title": "Generative Model"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bayesian Modeling"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ImageBind: One Embedding Space To Bind Them All",
+                  "description": "CVPR'23, 2023. [All Versions]. [Project]. This work presents ImageBind, an approach to learn a joint embedding across six different modalities - images, text, audio, depth, thermal, and IMU data. The authors show that all combinations of paired data are not necessary to train such a joint embedding, and only image-paired data is sufficient to bind the modalities together. ImageBind can leverage recent large scale vision-language models, and extends their zero-shot capabilities to new modalities just by using their natural pairing with images. It enables novel emergent applications 'out-of-the-box' including cross-modal retrieval, composing modalities with arithmetic, cross-modal detection and generation. The emergent capabilities improve with the strength of the image encoder and this work sets a new state-of-the-art on emergent zero-shot recognition tasks across modalities, outperforming specialist supervised models. Finally, the authors show strong few-shot recognition results outperforming prior work, and that ImageBind serves as a new way to evaluate vision models for visual and non-visual tasks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 618029110,
+                    "language": "Python",
+                    "last_commit": "2025-11-21T21:48:14Z",
+                    "owner": "facebookresearch",
+                    "repo": "ImageBind",
+                    "stars": 9067
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Connecting Touch and Vision via Cross-Modal Prediction",
+                  "description": "CVPR'19, 2019. [All Versions]. [Project]. Humans perceive the world using multi-modal sensory inputs such as vision, audition, and touch. This work investigates the cross-modal connection between vision and touch. The main challenge in this cross-domain modeling task lies in the significant scale discrepancy between the two: while our eyes perceive an entire visual scene at once, humans can only feel a small region of an object at any given moment. To connect vision and touch, this work introduces new tasks of synthesizing plausible tactile signals from visual inputs as well as imagining how we interact with objects given tactile data as input. To accomplish the goals, the authors first equip robots with both visual and tactile sensors and collect a large-scale dataset of corresponding vision and tactile image sequences. To close the scale gap, the authors present a new conditional adversarial model that incorporates the scale and location information of the touch. Human perceptual studies demonstrate that the model can produce realistic visual images from tactile data and vice versa.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 192285423,
+                    "language": "Python",
+                    "last_commit": "2019-06-17T06:17:49Z",
+                    "owner": "YunzhuLi",
+                    "repo": "VisGel",
+                    "stars": 78
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A principal odor map unifies diverse tasks in olfactory perception",
+                  "description": "Science, 2023. [All Versions]. [Code]. [Data (Reproduced)]. [Preprint]. [GoodScents Database]. [Leffingwell Database]. Mapping molecular structure to odor perception is a key challenge in olfaction. This work used graph neural networks to generate a principal odor map (POM) that preserves perceptual relationships and enables odor quality prediction for previously uncharacterized odorants. The model was as reliable as a human in describing odor quality: On a prospective validation set of 400 out-of-sample odorants, the model-generated odor profile more closely matched the trained panel mean than did the median panelist. By applying simple, interpretable, theoretically rooted transformations, the POM outperformed chemoinformatic models on several other odor prediction tasks, indicating that the POM successfully encoded a generalized map of structure-odor relationships. This approach broadly enables odor prediction and paves the way toward digitizing odors.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 611490147,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-08-31T16:00:39Z",
+                    "owner": "osmoai",
+                    "repo": "publications",
+                    "stars": 31
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Metabolic activity organizes olfactory representations",
+                  "description": "eLife, 2023. [All Versions]. [Code & Data]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 611490147,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-08-31T16:00:39Z",
+                    "owner": "osmoai",
+                    "repo": "publications",
+                    "stars": 31
+                  }
+                }
+              ],
+              "description": "*Back to Top",
+              "node_type": "group",
+              "title": "AI Concept Representation"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Concepts"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Language for Counterfactual Generative Models",
+                  "description": "ICML'21, 2021. [All Versions]. [Project]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 124602335,
+                    "language": "Julia",
+                    "last_commit": "2025-10-21T15:27:18Z",
+                    "owner": "zenna",
+                    "repo": "Omega.jl",
+                    "stars": 178
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Artificial intelligence driven design of catalysts and materials for ring opening polymerization using a domain-specific language",
+                  "description": "Nature Communications, 2023. [All Versions]. [Project]. Advances in machine learning (ML) and automated experimentation are poised to vastly accelerate research in polymer science. Data representation is a critical aspect for enabling ML integration in research workflows, yet many data models impose significant rigidity making it difficult to accommodate a broad array of experiment and data types found in polymer science. This inflexibility presents a significant barrier for researchers to leverage their historical data in ML development. This work shows that a domain specific language, termed Chemical Markdown Language (CMDL), provides flexible, extensible, and consistent representation of disparate experiment types and polymer structures. CMDL enables seamless use of historical experimental data to fine-tune regression transformer (RT) models for generative molecular design tasks. The authors demonstrate the utility of this approach through the generation and the experimental validation of catalysts and polymers in the context of ring-opening polymerization---although the authors provide examples of how CMDL can be more broadly applied to other polymer classes. Critically, this work shows how the CMDL tuned model preserves key functional groups within the polymer structure, allowing for experimental validation. These results reveal the versatility of CMDL and how it facilitates translation of historical data into meaningful predictive and generative models to produce experimentally actionable output.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 575722610,
+                    "language": "TypeScript",
+                    "last_commit": "2025-09-17T23:43:01Z",
+                    "owner": "IBM",
+                    "repo": "ibm-materials-notebook",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Goals as reward-producing programs",
+                  "description": "Nature Human Behavior, 2025. [All Versions]. [Project]. People are remarkably capable of generating their own goals, beginning with child’s play and continuing into adulthood. Despite considerable empirical and computational work on goals and goal-oriented behaviour, models are still far from capturing the richness of everyday human goals. This work bridges this gap by collecting a dataset of human-generated playful goals (in the form of scorable, single-player games), modelling them as reward-producing programs and generating novel human-like goals through program synthesis. Reward-producing programs capture the rich semantics of goals through symbolic operations that compose, add temporal constraints and allow program execution on behavioural traces to evaluate progress. To build a generative model of goals, the authors learn a fitness function over the infinite set of possible goal programs and sample novel goals with a quality-diversity algorithm. Human evaluators found that model-generated goals, when sampled from partitions of program space occupied by human examples, were indistinguishable from human-created games. The authors also discovered that the model’s internal fitness scores predict games that are evaluated as more fun to play and more human-like.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 800076356,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-12-05T05:09:48Z",
+                    "owner": "guydav",
+                    "repo": "goals-as-reward-producing-programs",
+                    "stars": 14
+                  }
+                }
+              ],
+              "description": "*Back to Top",
+              "node_type": "group",
+              "title": "Declarative DSL Applications"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "pix2code: Generating Code from a Graphical User Interface Screenshot",
+                  "description": "ACM SIGCHI Symposium on Engineering Interactive Computing Systems, 2018. [All Versions]. [Code]. [Website]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 92254860,
+                    "language": "Python",
+                    "last_commit": "2024-05-29T04:48:27Z",
+                    "owner": "tonybeltramelli",
+                    "repo": "pix2code",
+                    "stars": 12025
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting",
+                  "description": "2023. [All Versions]. [Project]. [Website]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 591064511,
+                    "language": "JavaScript",
+                    "last_commit": "2024-12-06T12:21:08Z",
+                    "owner": "ac-rad",
+                    "repo": "xdl-generation",
+                    "stars": 48
+                  }
+                }
+              ],
+              "description": "*Back to Top",
+              "node_type": "group",
+              "title": "DSL Program Synthesis"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Domain Specific Language"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning",
+                  "description": "ICML'21, 2021. [All Versions]. [Code].",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 276753853,
+                    "language": "Python",
+                    "last_commit": "2021-03-21T06:58:47Z",
+                    "owner": "pokaxpoka",
+                    "repo": "sunrise",
+                    "stars": 131
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL",
+                  "description": "ICML'21, 2021. [All Versions]. [Project].",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 348387319,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-11-21T12:26:05Z",
+                    "owner": "flowersteam",
+                    "repo": "TeachMyAgent",
+                    "stars": 78
+                  }
+                }
+              ],
+              "description": "*Back to Top",
+              "node_type": "group",
+              "title": "Reinforcement Learning"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Problem Solving"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Bridging Machine Learning and Logical Reasoning by Abductive Learning.",
+                  "description": "NeurIPS'19, 2019. [All Versions]. [Slides]. [Code]. The original paper on Abductive Learning, a derivative-free approach for neuro-symbolic learning.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 187691993,
+                    "language": "Python",
+                    "last_commit": "2024-01-31T05:41:45Z",
+                    "owner": "AbductiveLearning",
+                    "repo": "ABL-HED",
+                    "stars": 102
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Grounded Language Learning Fast and Slow",
+                  "description": "ICLR'21, 2021. [All Versions]. [Project].",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 326705777,
+                    "language": "Python",
+                    "last_commit": "2021-10-28T13:52:32Z",
+                    "owner": "google-deepmind",
+                    "repo": "dm_fast_mapping",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learn to explain efﬁciently via neural logic inductive learning",
+                  "description": "ICLR'20, 2020. [All Versions]. [Project].",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 240130638,
+                    "language": "Python",
+                    "last_commit": "2022-08-06T22:36:18Z",
+                    "owner": "gblackout",
+                    "repo": "NLIL",
+                    "stars": 44
+                  }
+                }
+              ],
+              "description": "*Back to Top",
+              "node_type": "group",
+              "title": "Neural-Symbolic AI"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "System 1 & System 2"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Deep Forest: Towards An Alternative to Deep Neural Networks",
+                  "description": "IJCAI'17, 2017. [All Versions]. [Project]. This paper proposes gcForest, a decision tree ensemble approach with performance highly competitive to deep neural networks in a broad range of tasks. In contrast to deep neural networks which require great effort in hyper-parameter tuning, gcForest is much easier to train; even when it is applied to different data across different domains in the experiments, excellent performance can be achieved by almost same settings of hyper-parameters. The training process of gcForest is efficient, and users can control training cost according to computational resource available. The efficiency may be further enhanced because gcForest is naturally apt to parallel implementation. Furthermore, in contrast to deep neural networks which require large-scale training data, gcForest can work well even when there are only small-scale training data.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 333274594,
+                    "language": "Python",
+                    "last_commit": "2026-05-18T03:52:08Z",
+                    "owner": "LAMDA-NJU",
+                    "repo": "Deep-Forest",
+                    "stars": 960
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NBDT: Neural-Backed Decision Trees",
+                  "description": "ICLR'21, 2021. [All Versions]. [Code]. Machine learning applications such as finance and medicine demand accurate and justifiable predictions, barring most deep learning methods from use. In response, previous work combines decision trees with deep learning, yielding models that (1) sacrifice interpretability for accuracy or (2) sacrifice accuracy for interpretability. This work forgoes this dilemma by jointly improving accuracy and interpretability using Neural-Backed Decision Trees (NBDTs). NBDTs replace a neural network's final linear layer with a differentiable sequence of decisions and a surrogate loss. This forces the model to learn high-level concepts and lessens reliance on highly-uncertain decisions, yielding (1) accuracy: NBDTs match or outperform modern neural networks on CIFAR, ImageNet and better generalize to unseen classes by up to 16%. Furthermore, the surrogate loss improves the original model's accuracy by up to 2%. NBDTs also afford (2) interpretability: improving human trustby clearly identifying model mistakes and assisting in dataset debugging.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 248639938,
+                    "language": "Python",
+                    "last_commit": "2023-05-01T21:23:52Z",
+                    "owner": "alvinwan",
+                    "repo": "neural-backed-decision-trees",
+                    "stars": 625
+                  }
+                }
+              ],
+              "description": "*Back to Top",
+              "node_type": "group",
+              "title": "Strong Machine Learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "pytorch-grad-cam",
+                  "description": "2021. Class Activation Map methods implemented in Pytorch, with many elegant features.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 92983437,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T07:15:26Z",
+                    "owner": "jacobgil",
+                    "repo": "pytorch-grad-cam",
+                    "stars": 12954
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Noise or Signal: The Role of Backgrounds in Image Classification",
+                  "description": "ICLR'21, 2021. [All Versions]. [Code & Data]. [Project]. A perspective on image background provides strong clue for foreground classification.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272887265,
+                    "language": "Python",
+                    "last_commit": "2020-10-02T00:15:53Z",
+                    "owner": "MadryLab",
+                    "repo": "backgrounds_challenge",
+                    "stars": 144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Compositional Explanations of Neurons",
+                  "description": "NeurIPS'20, 2020. [All Versions]. [Project]. A concept-composition version of network dissection.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 284563542,
+                    "language": "HTML",
+                    "last_commit": "2021-04-09T17:36:01Z",
+                    "owner": "jayelm",
+                    "repo": "compexp",
+                    "stars": 27
+                  }
+                }
+              ],
+              "description": "*Back to Top",
+              "node_type": "group",
+              "title": "Explainable Deep Learning"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Explainability"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4",
+                  "description": "Microsoft Research AI4Science, 2023. [All Versions]. [Project]. A survey on the performance of LLMs within the context of scientific discovery, focusing on GPT-4.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 740374027,
+                    "language": null,
+                    "last_commit": "2024-04-11T08:44:22Z",
+                    "owner": "microsoft",
+                    "repo": "LLM4ScientificDiscovery",
+                    "stars": 81
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology",
+                  "description": "EMNLP'23, 2023. [All Versions]. [Project]. This paper presents an automatic evaluation framework for the task of planning experimental protocols, and introduces BioProt: a dataset of biology protocols with corresponding pseudocode representations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 703965019,
+                    "language": "Python",
+                    "last_commit": "2024-07-05T19:12:54Z",
+                    "owner": "bioplanner",
+                    "repo": "bioplanner",
+                    "stars": 30
+                  }
+                }
+              ],
+              "description": "*Back to Top",
+              "node_type": "group",
+              "title": "AI Assisted Research"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Science Logology"
+        }
+      ],
       "title": "Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Abduction"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bayesian Modeling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Generative Modeling Explained",
-          "description": "Statistical Machine Learning Tutorials, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-01-07T07:17:12Z",
-            "owner": "SHI-Yu-Zhe",
-            "repo": "generative-modeling-explained",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning Energy-Based Models by Diffusion Recovery Likelihood",
-          "description": "ICLR'21, 2021. [All Versions]. [Code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-17T07:34:49Z",
-            "owner": "ruiqigao",
-            "repo": "recovery_likelihood",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning Latent Space Energy-Based Prior Model",
-          "description": "NeurIPS'20, 2020. [All Versions]. [Project]. [Code]. A milestone paper on Latent Energy-Based Model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-10-20T11:40:41Z",
-            "owner": "bpucla",
-            "repo": "latent-space-EBM-prior",
-            "stars": 36
-          }
-        }
-      ],
-      "title": "Generative Model"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Concepts"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ImageBind: One Embedding Space To Bind Them All",
-          "description": "CVPR'23, 2023. [All Versions]. [Project]. This work presents ImageBind, an approach to learn a joint embedding across six different modalities - images, text, audio, depth, thermal, and IMU data. The authors show that all combinations of paired data are not necessary to train such a joint embedding, and only image-paired data is sufficient to bind the modalities together. ImageBind can leverage recent large scale vision-language models, and extends their zero-shot capabilities to new modalities just by using their natural pairing with images. It enables novel emergent applications 'out-of-the-box' including cross-modal retrieval, composing modalities with arithmetic, cross-modal detection and generation. The emergent capabilities improve with the strength of the image encoder and this work sets a new state-of-the-art on emergent zero-shot recognition tasks across modalities, outperforming specialist supervised models. Finally, the authors show strong few-shot recognition results outperforming prior work, and that ImageBind serves as a new way to evaluate vision models for visual and non-visual tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-21T21:48:14Z",
-            "owner": "facebookresearch",
-            "repo": "ImageBind",
-            "stars": 9066
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Connecting Touch and Vision via Cross-Modal Prediction",
-          "description": "CVPR'19, 2019. [All Versions]. [Project]. Humans perceive the world using multi-modal sensory inputs such as vision, audition, and touch. This work investigates the cross-modal connection between vision and touch. The main challenge in this cross-domain modeling task lies in the significant scale discrepancy between the two: while our eyes perceive an entire visual scene at once, humans can only feel a small region of an object at any given moment. To connect vision and touch, this work introduces new tasks of synthesizing plausible tactile signals from visual inputs as well as imagining how we interact with objects given tactile data as input. To accomplish the goals, the authors first equip robots with both visual and tactile sensors and collect a large-scale dataset of corresponding vision and tactile image sequences. To close the scale gap, the authors present a new conditional adversarial model that incorporates the scale and location information of the touch. Human perceptual studies demonstrate that the model can produce realistic visual images from tactile data and vice versa.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-06-17T06:17:49Z",
-            "owner": "YunzhuLi",
-            "repo": "VisGel",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A principal odor map unifies diverse tasks in olfactory perception",
-          "description": "Science, 2023. [All Versions]. [Code]. [Data (Reproduced)]. [Preprint]. [GoodScents Database]. [Leffingwell Database]. Mapping molecular structure to odor perception is a key challenge in olfaction. This work used graph neural networks to generate a principal odor map (POM) that preserves perceptual relationships and enables odor quality prediction for previously uncharacterized odorants. The model was as reliable as a human in describing odor quality: On a prospective validation set of 400 out-of-sample odorants, the model-generated odor profile more closely matched the trained panel mean than did the median panelist. By applying simple, interpretable, theoretically rooted transformations, the POM outperformed chemoinformatic models on several other odor prediction tasks, indicating that the POM successfully encoded a generalized map of structure-odor relationships. This approach broadly enables odor prediction and paves the way toward digitizing odors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-08-31T16:00:39Z",
-            "owner": "osmoai",
-            "repo": "publications",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Metabolic activity organizes olfactory representations",
-          "description": "eLife, 2023. [All Versions]. [Code & Data]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-08-31T16:00:39Z",
-            "owner": "osmoai",
-            "repo": "publications",
-            "stars": 31
-          }
-        }
-      ],
-      "title": "AI Concept Representation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Complexity & Information Theory"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Communications"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Domain Specific Language"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "A Language for Counterfactual Generative Models",
-          "description": "ICML'21, 2021. [All Versions]. [Project]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2025-10-21T15:27:18Z",
-            "owner": "zenna",
-            "repo": "Omega.jl",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Artificial intelligence driven design of catalysts and materials for ring opening polymerization using a domain-specific language",
-          "description": "Nature Communications, 2023. [All Versions]. [Project]. Advances in machine learning (ML) and automated experimentation are poised to vastly accelerate research in polymer science. Data representation is a critical aspect for enabling ML integration in research workflows, yet many data models impose significant rigidity making it difficult to accommodate a broad array of experiment and data types found in polymer science. This inflexibility presents a significant barrier for researchers to leverage their historical data in ML development. This work shows that a domain specific language, termed Chemical Markdown Language (CMDL), provides flexible, extensible, and consistent representation of disparate experiment types and polymer structures. CMDL enables seamless use of historical experimental data to fine-tune regression transformer (RT) models for generative molecular design tasks. The authors demonstrate the utility of this approach through the generation and the experimental validation of catalysts and polymers in the context of ring-opening polymerization---although the authors provide examples of how CMDL can be more broadly applied to other polymer classes. Critically, this work shows how the CMDL tuned model preserves key functional groups within the polymer structure, allowing for experimental validation. These results reveal the versatility of CMDL and how it facilitates translation of historical data into meaningful predictive and generative models to produce experimentally actionable output.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-09-17T23:43:01Z",
-            "owner": "IBM",
-            "repo": "ibm-materials-notebook",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Goals as reward-producing programs",
-          "description": "Nature Human Behavior, 2025. [All Versions]. [Project]. People are remarkably capable of generating their own goals, beginning with child’s play and continuing into adulthood. Despite considerable empirical and computational work on goals and goal-oriented behaviour, models are still far from capturing the richness of everyday human goals. This work bridges this gap by collecting a dataset of human-generated playful goals (in the form of scorable, single-player games), modelling them as reward-producing programs and generating novel human-like goals through program synthesis. Reward-producing programs capture the rich semantics of goals through symbolic operations that compose, add temporal constraints and allow program execution on behavioural traces to evaluate progress. To build a generative model of goals, the authors learn a fitness function over the infinite set of possible goal programs and sample novel goals with a quality-diversity algorithm. Human evaluators found that model-generated goals, when sampled from partitions of program space occupied by human examples, were indistinguishable from human-created games. The authors also discovered that the model’s internal fitness scores predict games that are evaluated as more fun to play and more human-like.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-12-05T05:09:48Z",
-            "owner": "guydav",
-            "repo": "goals-as-reward-producing-programs",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Declarative DSL Applications"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pix2code: Generating Code from a Graphical User Interface Screenshot",
-          "description": "ACM SIGCHI Symposium on Engineering Interactive Computing Systems, 2018. [All Versions]. [Code]. [Website]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-29T04:48:27Z",
-            "owner": "tonybeltramelli",
-            "repo": "pix2code",
-            "stars": 12025
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting",
-          "description": "2023. [All Versions]. [Project]. [Website]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-06T12:21:08Z",
-            "owner": "ac-rad",
-            "repo": "xdl-generation",
-            "stars": 48
-          }
-        }
-      ],
-      "title": "DSL Program Synthesis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Problem Solving"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning",
-          "description": "ICML'21, 2021. [All Versions]. [Code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-21T06:58:47Z",
-            "owner": "pokaxpoka",
-            "repo": "sunrise",
-            "stars": 131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL",
-          "description": "ICML'21, 2021. [All Versions]. [Project].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-11-21T12:26:05Z",
-            "owner": "flowersteam",
-            "repo": "TeachMyAgent",
-            "stars": 78
-          }
-        }
-      ],
-      "title": "Reinforcement Learning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "System 1 & System 2"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bridging Machine Learning and Logical Reasoning by Abductive Learning.",
-          "description": "NeurIPS'19, 2019. [All Versions]. [Slides]. [Code]. The original paper on Abductive Learning, a derivative-free approach for neuro-symbolic learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-31T05:41:45Z",
-            "owner": "AbductiveLearning",
-            "repo": "ABL-HED",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Grounded Language Learning Fast and Slow",
-          "description": "ICLR'21, 2021. [All Versions]. [Project].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-28T13:52:32Z",
-            "owner": "google-deepmind",
-            "repo": "dm_fast_mapping",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learn to explain efﬁciently via neural logic inductive learning",
-          "description": "ICLR'20, 2020. [All Versions]. [Project].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-06T22:36:18Z",
-            "owner": "gblackout",
-            "repo": "NLIL",
-            "stars": 44
-          }
-        }
-      ],
-      "title": "Neural-Symbolic AI"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Explainability"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Deep Forest: Towards An Alternative to Deep Neural Networks",
-          "description": "IJCAI'17, 2017. [All Versions]. [Project]. This paper proposes gcForest, a decision tree ensemble approach with performance highly competitive to deep neural networks in a broad range of tasks. In contrast to deep neural networks which require great effort in hyper-parameter tuning, gcForest is much easier to train; even when it is applied to different data across different domains in the experiments, excellent performance can be achieved by almost same settings of hyper-parameters. The training process of gcForest is efficient, and users can control training cost according to computational resource available. The efficiency may be further enhanced because gcForest is naturally apt to parallel implementation. Furthermore, in contrast to deep neural networks which require large-scale training data, gcForest can work well even when there are only small-scale training data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-18T03:52:08Z",
-            "owner": "LAMDA-NJU",
-            "repo": "Deep-Forest",
-            "stars": 960
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NBDT: Neural-Backed Decision Trees",
-          "description": "ICLR'21, 2021. [All Versions]. [Code]. Machine learning applications such as finance and medicine demand accurate and justifiable predictions, barring most deep learning methods from use. In response, previous work combines decision trees with deep learning, yielding models that (1) sacrifice interpretability for accuracy or (2) sacrifice accuracy for interpretability. This work forgoes this dilemma by jointly improving accuracy and interpretability using Neural-Backed Decision Trees (NBDTs). NBDTs replace a neural network's final linear layer with a differentiable sequence of decisions and a surrogate loss. This forces the model to learn high-level concepts and lessens reliance on highly-uncertain decisions, yielding (1) accuracy: NBDTs match or outperform modern neural networks on CIFAR, ImageNet and better generalize to unseen classes by up to 16%. Furthermore, the surrogate loss improves the original model's accuracy by up to 2%. NBDTs also afford (2) interpretability: improving human trustby clearly identifying model mistakes and assisting in dataset debugging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-01T21:23:52Z",
-            "owner": "alvinwan",
-            "repo": "neural-backed-decision-trees",
-            "stars": 625
-          }
-        }
-      ],
-      "title": "Strong Machine Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pytorch-grad-cam",
-          "description": "2021. Class Activation Map methods implemented in Pytorch, with many elegant features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T07:15:26Z",
-            "owner": "jacobgil",
-            "repo": "pytorch-grad-cam",
-            "stars": 12954
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Noise or Signal: The Role of Backgrounds in Image Classification",
-          "description": "ICLR'21, 2021. [All Versions]. [Code & Data]. [Project]. A perspective on image background provides strong clue for foreground classification.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-10-02T00:15:53Z",
-            "owner": "MadryLab",
-            "repo": "backgrounds_challenge",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Compositional Explanations of Neurons",
-          "description": "NeurIPS'20, 2020. [All Versions]. [Project]. A concept-composition version of network dissection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-04-09T17:36:01Z",
-            "owner": "jayelm",
-            "repo": "compexp",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "Explainable Deep Learning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Methodologies for Experiments"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Meta-Level Considerations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Science Logology"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4",
-          "description": "Microsoft Research AI4Science, 2023. [All Versions]. [Project]. A survey on the performance of LLMs within the context of scientific discovery, focusing on GPT-4.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2024-04-11T08:44:22Z",
-            "owner": "microsoft",
-            "repo": "LLM4ScientificDiscovery",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology",
-          "description": "EMNLP'23, 2023. [All Versions]. [Project]. This paper presents an automatic evaluation framework for the task of planning experimental protocols, and introduces BioProt: a dataset of biology protocols with corresponding pseudocode representations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-05T19:12:54Z",
-            "owner": "bioplanner",
-            "repo": "bioplanner",
-            "stars": 30
-          }
-        }
-      ],
-      "title": "AI Assisted Research"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Commonsense"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:52:57.786Z",
+    "last_updated": "2026-08-19T12:15:58.739Z",
     "original_repository": "SHI-Yu-Zhe/awesome-agi-cocosci",
+    "original_repository_id": 295095715,
     "original_repository_sha": "0ff4ed6ef214e4151669e5187cc7d9873219f974",
     "enhanced_repository": "enhansome/enhansome-agi-cocosci",
     "enhanced_repository_description": null,
