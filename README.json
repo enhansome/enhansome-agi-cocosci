@@ -306,7 +306,7 @@
                     "last_commit": "2024-05-29T04:48:27Z",
                     "owner": "tonybeltramelli",
                     "repo": "pix2code",
-                    "stars": 12025
+                    "stars": 12026
                   }
                 },
                 {
@@ -512,7 +512,7 @@
                     "last_commit": "2026-08-13T07:15:26Z",
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
-                    "stars": 12957
+                    "stars": 12958
                   }
                 },
                 {
@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:28.144Z",
+    "last_updated": "2026-08-24T22:55:11.795Z",
     "original_repository": "SHI-Yu-Zhe/awesome-agi-cocosci",
     "original_repository_id": 295095715,
     "original_repository_sha": "0ff4ed6ef214e4151669e5187cc7d9873219f974",
