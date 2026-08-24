@@ -53,7 +53,7 @@
                   }
                 }
               ],
-              "description": "*Back to Top",
+              "description": null,
               "node_type": "group",
               "title": "Generative Model"
             }
@@ -64,6 +64,28 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Natural speech reveals the semantic maps that tile human cerebral cortex",
+                  "description": "Nature, 2016. [All Versions]. [Preprint]. [Code & Tutorial]. The meaning of language is represented in regions of the cerebral cortex collectively known as the ‘semantic system’. However, little of the semantic system has been mapped comprehensively, and the semantic selectivity of most regions is unknown. This work systematically maps semantic selectivity across the cortex using voxel-wise modelling of functional MRI (fMRI) data collected while subjects listened to hours of narrative stories. This work shows that the semantic system is organized into intricate patterns that seem to be consistent across individuals. The authors then use a novel generative model to create a detailed semantic atlas. The results suggest that most areas within the semantic system represent information about specific semantic domains, or groups of related concepts, and the atlas shows which domains are represented in each area. This study demonstrates that data-driven methods---commonplace in studies of human neuroanatomy and functional connectivity---provide a powerful and efficient means for mapping functional representations in the brain.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 119427999,
+                    "language": "HTML",
+                    "last_commit": "2024-08-05T15:32:30Z",
+                    "owner": "HuthLab",
+                    "repo": "speechmodeltutorial",
+                    "stars": 42
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Human Concept Representation"
+            },
             {
               "children": [
                 {
@@ -127,7 +149,7 @@
                   }
                 }
               ],
-              "description": "*Back to Top",
+              "description": null,
               "node_type": "group",
               "title": "AI Concept Representation"
             }
@@ -138,6 +160,86 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "On the Complexity of Bayesian Generalization",
+                  "description": "ICML'23, 2023. [All Versions]. [Project]. [Models]. This work examines concept generalization at a large scale in the natural visual spectrum. Established computational modes (i.e., rule-based or similarity-based) are primarily studied isolated, focusing on confined and abstract problem spaces. This work studies these two modes when the problem space scales up and when the complexity of concepts becomes diverse. At the representational level, the authors investigate how the complexity varies when a visual concept is mapped to the representation space. Prior literature has shown that two types of complexities build an inverted-U relation. Leveraging Representativeness of Attribute (RoA), the authors computationally confirm: Models use attributes with high RoA to describe visual concepts, and the description length falls in an inverted-U relation with the increment in visual complexity. At the computational level, the authors examine how the complexity of representation affects the shift between the rule- and similarity-based generalization. The authors hypothesize that category-conditioned visual modeling estimates the co-occurrence frequency between visual and categorical attributes, thus potentially serving as the prior for the natural visual world. Experimental results show that representations with relatively high subjective complexity outperform those with relatively low subjective complexity in rule-based generalization, while the trend is the opposite in similarity-based generalization.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 374212480,
+                    "language": "Python",
+                    "last_commit": "2023-11-08T08:05:09Z",
+                    "owner": "SHI-Yu-Zhe",
+                    "repo": "bayesian-generalization-complexity",
+                    "stars": 8
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Theory"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Complexity & Information Theory"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Exploring Urban Form Through Openstreetmap Data: A Visual Introduction",
+                  "description": "Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm, 2020. [All Versions]. [OSMnx Tool]. [OpenStreetMap Website].",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 64045935,
+                    "language": "Python",
+                    "last_commit": "2026-07-31T17:24:41Z",
+                    "owner": "gboeing",
+                    "repo": "osmnx",
+                    "stars": 5827
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Pragmatics"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Communications"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Biocoder: A programming language for standardizing and automating biology protocols",
+                  "description": "Journal of Biological Engineering, 2010. [All Versions]. [Project]. [Microsoft Page] This paper introduces BioCoder, a C++ library that enables biologists to express the exact steps needed to execute a protocol. In addition to being suitable for automation, BioCoder converts the code into a readable, English-language description for use by biologists.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148277935,
+                    "language": "HTML",
+                    "last_commit": "2018-09-11T08:57:23Z",
+                    "owner": "nmz787",
+                    "repo": "BioCoder",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Imperative DSL Applications"
+            },
             {
               "children": [
                 {
@@ -186,7 +288,7 @@
                   }
                 }
               ],
-              "description": "*Back to Top",
+              "description": null,
               "node_type": "group",
               "title": "Declarative DSL Applications"
             },
@@ -223,7 +325,7 @@
                   }
                 }
               ],
-              "description": "*Back to Top",
+              "description": null,
               "node_type": "group",
               "title": "DSL Program Synthesis"
             }
@@ -234,6 +336,28 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Learning to act by integrating mental simulations and physical experiments",
+                  "description": "CogSci'18, 2018. [All Versions]. [Code].",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 105671782,
+                    "language": "HTML",
+                    "last_commit": "2018-02-09T20:02:07Z",
+                    "owner": "ishita-dg",
+                    "repo": "SimulationVSAction",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Human-Level Problem Solving"
+            },
             {
               "children": [
                 {
@@ -267,7 +391,7 @@
                   }
                 }
               ],
-              "description": "*Back to Top",
+              "description": null,
               "node_type": "group",
               "title": "Reinforcement Learning"
             }
@@ -326,7 +450,7 @@
                   }
                 }
               ],
-              "description": "*Back to Top",
+              "description": null,
               "node_type": "group",
               "title": "Neural-Symbolic AI"
             }
@@ -370,7 +494,7 @@
                   }
                 }
               ],
-              "description": "*Back to Top",
+              "description": null,
               "node_type": "group",
               "title": "Strong Machine Learning"
             },
@@ -388,7 +512,7 @@
                     "last_commit": "2026-08-13T07:15:26Z",
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
-                    "stars": 12958
+                    "stars": 12957
                   }
                 },
                 {
@@ -422,7 +546,7 @@
                   }
                 }
               ],
-              "description": "*Back to Top",
+              "description": null,
               "node_type": "group",
               "title": "Explainable Deep Learning"
             }
@@ -466,7 +590,7 @@
                   }
                 }
               ],
-              "description": "*Back to Top",
+              "description": null,
               "node_type": "group",
               "title": "AI Assisted Research"
             }
@@ -474,13 +598,42 @@
           "description": null,
           "node_type": "group",
           "title": "Science Logology"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Intuitive Physics Reading List",
+                  "description": "GitHub. A reading list on intuitive physics, maintained actively by Shiqian Li.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 611073140,
+                    "language": null,
+                    "last_commit": "2024-08-02T07:31:26Z",
+                    "owner": "lishiqianhugh",
+                    "repo": "Intuitive_Physics_Reading_List",
+                    "stars": 23
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Intuitive Physics"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Commonsense"
         }
       ],
       "title": "Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:49:54.869Z",
+    "last_updated": "2026-08-24T14:30:28.144Z",
     "original_repository": "SHI-Yu-Zhe/awesome-agi-cocosci",
     "original_repository_id": 295095715,
     "original_repository_sha": "0ff4ed6ef214e4151669e5187cc7d9873219f974",
