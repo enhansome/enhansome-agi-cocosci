@@ -100,7 +100,7 @@
                     "last_commit": "2025-11-21T21:48:14Z",
                     "owner": "facebookresearch",
                     "repo": "ImageBind",
-                    "stars": 9065
+                    "stars": 9064
                   }
                 },
                 {
@@ -306,7 +306,7 @@
                     "last_commit": "2024-05-29T04:48:27Z",
                     "owner": "tonybeltramelli",
                     "repo": "pix2code",
-                    "stars": 12026
+                    "stars": 12025
                   }
                 },
                 {
@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:18.082Z",
+    "last_updated": "2026-08-25T22:56:54.698Z",
     "original_repository": "SHI-Yu-Zhe/awesome-agi-cocosci",
     "original_repository_id": 295095715,
     "original_repository_sha": "0ff4ed6ef214e4151669e5187cc7d9873219f974",
