@@ -203,7 +203,7 @@
                     "last_commit": "2026-07-31T17:24:41Z",
                     "owner": "gboeing",
                     "repo": "osmnx",
-                    "stars": 5827
+                    "stars": 5828
                   }
                 }
               ],
@@ -251,7 +251,7 @@
                     "archived": false,
                     "id": 124602335,
                     "language": "Julia",
-                    "last_commit": "2025-10-21T15:27:18Z",
+                    "last_commit": "2026-08-26T15:32:48Z",
                     "owner": "zenna",
                     "repo": "Omega.jl",
                     "stars": 178
@@ -306,7 +306,7 @@
                     "last_commit": "2024-05-29T04:48:27Z",
                     "owner": "tonybeltramelli",
                     "repo": "pix2code",
-                    "stars": 12025
+                    "stars": 12023
                   }
                 },
                 {
@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:56:54.698Z",
+    "last_updated": "2026-08-27T03:29:08.020Z",
     "original_repository": "SHI-Yu-Zhe/awesome-agi-cocosci",
     "original_repository_id": 295095715,
     "original_repository_sha": "0ff4ed6ef214e4151669e5187cc7d9873219f974",
