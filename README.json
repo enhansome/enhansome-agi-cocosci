@@ -20,7 +20,8 @@
                     "owner": "SHI-Yu-Zhe",
                     "repo": "generative-modeling-explained",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "ruiqigao",
                     "repo": "recovery_likelihood",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "bpucla",
                     "repo": "latent-space-EBM-prior",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -79,7 +82,8 @@
                     "owner": "HuthLab",
                     "repo": "speechmodeltutorial",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -101,7 +105,8 @@
                     "owner": "facebookresearch",
                     "repo": "ImageBind",
                     "stars": 9064
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -116,7 +121,8 @@
                     "owner": "YunzhuLi",
                     "repo": "VisGel",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -131,7 +137,8 @@
                     "owner": "osmoai",
                     "repo": "publications",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -146,7 +153,8 @@
                     "owner": "osmoai",
                     "repo": "publications",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -175,7 +183,8 @@
                     "owner": "SHI-Yu-Zhe",
                     "repo": "bayesian-generalization-complexity",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -204,7 +213,8 @@
                     "owner": "gboeing",
                     "repo": "osmnx",
                     "stars": 5828
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -233,7 +243,8 @@
                     "owner": "nmz787",
                     "repo": "BioCoder",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -255,7 +266,8 @@
                     "owner": "zenna",
                     "repo": "Omega.jl",
                     "stars": 178
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -270,7 +282,8 @@
                     "owner": "IBM",
                     "repo": "ibm-materials-notebook",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -285,7 +298,8 @@
                     "owner": "guydav",
                     "repo": "goals-as-reward-producing-programs",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -307,7 +321,8 @@
                     "owner": "tonybeltramelli",
                     "repo": "pix2code",
                     "stars": 12023
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -322,7 +337,8 @@
                     "owner": "ac-rad",
                     "repo": "xdl-generation",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -351,7 +367,8 @@
                     "owner": "ishita-dg",
                     "repo": "SimulationVSAction",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -373,7 +390,8 @@
                     "owner": "pokaxpoka",
                     "repo": "sunrise",
                     "stars": 130
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -388,7 +406,8 @@
                     "owner": "flowersteam",
                     "repo": "TeachMyAgent",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -417,7 +436,8 @@
                     "owner": "AbductiveLearning",
                     "repo": "ABL-HED",
                     "stars": 102
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -432,7 +452,8 @@
                     "owner": "google-deepmind",
                     "repo": "dm_fast_mapping",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -447,7 +468,8 @@
                     "owner": "gblackout",
                     "repo": "NLIL",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -476,7 +498,8 @@
                     "owner": "LAMDA-NJU",
                     "repo": "Deep-Forest",
                     "stars": 960
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -491,7 +514,8 @@
                     "owner": "alvinwan",
                     "repo": "neural-backed-decision-trees",
                     "stars": 625
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -512,8 +536,9 @@
                     "last_commit": "2026-08-13T07:15:26Z",
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
-                    "stars": 12958
-                  }
+                    "stars": 12959
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -528,7 +553,8 @@
                     "owner": "MadryLab",
                     "repo": "backgrounds_challenge",
                     "stars": 144
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -543,7 +569,8 @@
                     "owner": "jayelm",
                     "repo": "compexp",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -572,7 +599,8 @@
                     "owner": "microsoft",
                     "repo": "LLM4ScientificDiscovery",
                     "stars": 81
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 },
                 {
                   "node_type": "item",
@@ -587,7 +615,8 @@
                     "owner": "bioplanner",
                     "repo": "bioplanner",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -616,7 +645,8 @@
                     "owner": "lishiqianhugh",
                     "repo": "Intuitive_Physics_Reading_List",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:57.962Z"
                 }
               ],
               "description": null,
@@ -633,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:29.960Z",
+    "last_updated": "2026-08-28T06:14:57.962Z",
     "original_repository_info": {
       "archived": false,
       "id": 295095715,
