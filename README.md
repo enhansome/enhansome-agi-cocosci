@@ -582,7 +582,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 #### Pragmatics
 
-* [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool](https://github.com/gboeing/osmnx) ⭐ 5,831 | 🐛 2 | 🌐 Python | 📅 2026-07-31]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
+* [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool](https://github.com/gboeing/osmnx) ⭐ 5,834 | 🐛 2 | 🌐 Python | 📅 2026-07-31]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***. A computational philosophy account of Pragmatics, whilch studies utterances in specific contexts.
 
@@ -2125,4 +2125,4 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
