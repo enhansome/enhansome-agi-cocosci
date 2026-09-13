@@ -277,10 +277,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-31T17:24:41Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "gboeing",
                     "repo": "osmnx",
-                    "stars": 5840,
+                    "stars": 5841,
                     "topics": [
                       "geography",
                       "geospatial",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:30:53.332Z",
+    "last_updated": "2026-09-13T00:10:03.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
