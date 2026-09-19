@@ -280,7 +280,7 @@
                     "open_issues": 3,
                     "owner": "gboeing",
                     "repo": "osmnx",
-                    "stars": 5844,
+                    "stars": 5845,
                     "topics": [
                       "geography",
                       "geospatial",
@@ -437,7 +437,7 @@
                     "open_issues": 9,
                     "owner": "tonybeltramelli",
                     "repo": "pix2code",
-                    "stars": 12015,
+                    "stars": 12014,
                     "topics": [
                       "datasets",
                       "deep-learning",
@@ -754,7 +754,7 @@
                     "open_issues": 160,
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
-                    "stars": 12976,
+                    "stars": 12977,
                     "topics": [
                       "class-activation-maps",
                       "computer-vision",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:42:01.858Z",
+    "last_updated": "2026-09-19T00:31:31.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
