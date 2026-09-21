@@ -140,7 +140,7 @@
                     "open_issues": 91,
                     "owner": "facebookresearch",
                     "repo": "ImageBind",
-                    "stars": 9073,
+                    "stars": 9075,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:57.962Z"
@@ -280,7 +280,7 @@
                     "open_issues": 3,
                     "owner": "gboeing",
                     "repo": "osmnx",
-                    "stars": 5847,
+                    "stars": 5851,
                     "topics": [
                       "geography",
                       "geospatial",
@@ -382,7 +382,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-10T22:17:39Z",
-                    "open_issues": 6,
+                    "open_issues": 5,
                     "owner": "IBM",
                     "repo": "ibm-materials-notebook",
                     "stars": 17,
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:18:00.493Z",
+    "last_updated": "2026-09-21T00:25:27.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
@@ -937,7 +937,7 @@
       "open_issues": 1,
       "owner": "SHI-Yu-Zhe",
       "repo": "awesome-agi-cocosci",
-      "stars": 395,
+      "stars": 397,
       "topics": [
         "abduction",
         "analogy",
