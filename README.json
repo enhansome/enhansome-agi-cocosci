@@ -754,7 +754,7 @@
                     "open_issues": 161,
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
-                    "stars": 12985,
+                    "stars": 12987,
                     "topics": [
                       "class-activation-maps",
                       "computer-vision",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:46:29.616Z",
+    "last_updated": "2026-10-03T01:20:12.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
