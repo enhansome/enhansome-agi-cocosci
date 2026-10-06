@@ -137,10 +137,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2025-11-21T21:48:14Z",
-                    "open_issues": 92,
+                    "open_issues": 91,
                     "owner": "facebookresearch",
                     "repo": "ImageBind",
-                    "stars": 9076,
+                    "stars": 9075,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:57.962Z"
@@ -437,7 +437,7 @@
                     "open_issues": 9,
                     "owner": "tonybeltramelli",
                     "repo": "pix2code",
-                    "stars": 12013,
+                    "stars": 12014,
                     "topics": [
                       "datasets",
                       "deep-learning",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T01:08:59.649Z",
+    "last_updated": "2026-10-06T02:26:29.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
