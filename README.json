@@ -140,7 +140,7 @@
                     "open_issues": 91,
                     "owner": "facebookresearch",
                     "repo": "ImageBind",
-                    "stars": 9075,
+                    "stars": 9074,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:57.962Z"
@@ -754,7 +754,7 @@
                     "open_issues": 161,
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
-                    "stars": 12991,
+                    "stars": 12993,
                     "topics": [
                       "class-activation-maps",
                       "computer-vision",
@@ -919,13 +919,51 @@
           "description": null,
           "node_type": "group",
           "title": "Commonsense"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Towards Open World Object Detection",
+              "description": "CVPR'21, 2021. [All Versions]. [Project].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "(CVPR 2021 Oral) Open World Object Detection",
+                "homepage": "https://josephkj.in",
+                "id": 299461202,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2022-12-19T08:59:57Z",
+                "open_issues": 30,
+                "owner": "JosephKJ",
+                "repo": "OWOD",
+                "stars": 1073,
+                "topics": [
+                  "continual-learning",
+                  "contrastive-learning",
+                  "cvpr",
+                  "cvpr2021",
+                  "detectron2",
+                  "energy-based-model",
+                  "incremental-learning",
+                  "object-detection",
+                  "open-world"
+                ]
+              },
+              "first_seen": "2026-10-06T10:22:20.042Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Learning in the Open World"
         }
       ],
       "title": "Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:26:29.798Z",
+    "last_updated": "2026-10-06T10:22:20.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",

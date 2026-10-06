@@ -470,7 +470,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 #### AI Concept Representation
 
-* [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916)]. \[[Project](https://github.com/facebookresearch/ImageBind) ⭐ 9,075 | 🐛 91 | 🌐 Python | 📅 2025-11-21]. This work presents ImageBind, an approach to learn a joint embedding across six different modalities - images, text, audio, depth, thermal, and IMU data. The authors show that all combinations of paired data are not necessary to train such a joint embedding, and only image-paired data is sufficient to bind the modalities together. ImageBind can leverage recent large scale vision-language models, and extends their zero-shot capabilities to new modalities just by using their natural pairing with images. It enables novel emergent applications 'out-of-the-box' including cross-modal retrieval, composing modalities with arithmetic, cross-modal detection and generation. The emergent capabilities improve with the strength of the image encoder and this work sets a new state-of-the-art on emergent zero-shot recognition tasks across modalities, outperforming specialist supervised models. Finally, the authors show strong few-shot recognition results outperforming prior work, and that ImageBind serves as a new way to evaluate vision models for visual and non-visual tasks.
+* [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916)]. \[[Project](https://github.com/facebookresearch/ImageBind) ⭐ 9,074 | 🐛 91 | 🌐 Python | 📅 2025-11-21]. This work presents ImageBind, an approach to learn a joint embedding across six different modalities - images, text, audio, depth, thermal, and IMU data. The authors show that all combinations of paired data are not necessary to train such a joint embedding, and only image-paired data is sufficient to bind the modalities together. ImageBind can leverage recent large scale vision-language models, and extends their zero-shot capabilities to new modalities just by using their natural pairing with images. It enables novel emergent applications 'out-of-the-box' including cross-modal retrieval, composing modalities with arithmetic, cross-modal detection and generation. The emergent capabilities improve with the strength of the image encoder and this work sets a new state-of-the-art on emergent zero-shot recognition tasks across modalities, outperforming specialist supervised models. Finally, the authors show strong few-shot recognition results outperforming prior work, and that ImageBind serves as a new way to evaluate vision models for visual and non-visual tasks.
 
 * [Connecting Touch and Vision via Cross-Modal Prediction](https://ieeexplore.ieee.org/document/8953737) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=17326564895972374001)]. \[[Project](https://github.com/YunzhuLi/VisGel) ⭐ 78 | 🐛 4 | 🌐 Python | 📅 2019-06-17]. Humans perceive the world using multi-modal sensory inputs such as vision, audition, and touch. This work investigates the cross-modal connection between vision and touch. The main challenge in this cross-domain modeling task lies in the significant scale discrepancy between the two: while our eyes perceive an entire visual scene at once, humans can only feel a small region of an object at any given moment. To connect vision and touch, this work introduces new tasks of synthesizing plausible tactile signals from visual inputs as well as imagining how we interact with objects given tactile data as input. To accomplish the goals, the authors first equip robots with both visual and tactile sensors and collect a large-scale dataset of corresponding vision and tactile image sequences. To close the scale gap, the authors present a new conditional adversarial model that incorporates the scale and location information of the touch. Human perceptual studies demonstrate that the model can produce realistic visual images from tactile data and vice versa.
 
@@ -1195,7 +1195,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 #### Explainable Deep Learning
 
-* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 12,991 | 🐛 161 | 🌐 Python | 📅 2026-08-13 - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 12,993 | 🐛 161 | 🌐 Python | 📅 2026-08-13 - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 * [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data](https://github.com/MadryLab/backgrounds_challenge) ⭐ 144 | 🐛 6 | 🌐 Python | 📅 2020-10-02]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 
@@ -2121,7 +2121,640 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [Learning overhypotheses with hierarchical Bayesian models](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-7687.2007.00585.x?__cf_chl_captcha_tk__=pmd_Q6xVT1AstoEUxA7xS3_10HyDVsk8W_DzWgOPho_Njnw-1635210931-0-gqNtZGzNA1CjcnBszQvl) - ***Developmental Science***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=18041836774924845900\&hl=en\&as_sdt=0,5)].
 
-* [Learning Causal Schemata](https://escholarship.org/content/qt19v2r2ws/qt19v2r2ws.pdf) - ***CogSci'07***, 2007, \[\[All Versions]\(<https://scholar.google.com/scholar>?
+* [Learning Causal Schemata](https://escholarship.org/content/qt19v2r2ws/qt19v2r2ws.pdf) - ***CogSci'07***, 2007, \[[All Versions](https://scholar.google.com/scholar?cluster=5008191267417189643\&hl=en\&as_sdt=0,5)].
+
+* [The discovery of structural form](https://www.pnas.org/content/105/31/10687) - ***Proceedings of the National Academy of Sciences***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=10433149156915110486\&hl=en\&as_sdt=0,5)]. Chales Kemp's review on theory induction.
+
+* [A Rational Analysis of Rule-Based Concept Learning](https://onlinelibrary.wiley.com/doi/full/10.1080/03640210701802071) - ***Cognitive Science***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=7765061503727822620\&hl=en\&as_sdt=0,5)].
+
+* [Modeling semantic cognition as logical dimensionality reduction](https://escholarship.org/content/qt50r1c7qh/qt50r1c7qh.pdf) - ***CogSci'08***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=17061801746839695691\&hl=en\&as_sdt=0,5)].
+
+* [Theory Acquisition and the Language of Thought](http://www.charleskemp.com/papers/KempGT08.pdf) - ***CogSci'08***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=1839916602381147749\&hl=en\&as_sdt=0,5)].
+
+* [Theory Acquisition as Stochastic Search](http://web.mit.edu/tomeru/www/papers/tlss2010.pdf) - ***CogSci'10***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=16324634056226561429\&hl=en\&as_sdt=0,5)].
+
+* [A probabilistic model of theory formation](http://www.charleskemp.com/papers/kemptng09.pdf) - ***Cognition***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=7705799129887482041\&hl=en\&as_sdt=0,5)].
+
+* [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072) - ***Cognition***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=13046606910781656302\&hl=en\&as_sdt=0,5)].
+
+* [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***Center for Brains, Minds, and Machines MEMO No.010***, 2014. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14593712389828476130)].
+
+* [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf) - ***Psychological Review***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=17824067813343816306\&hl=en\&as_sdt=0,5)].
+
+* [A taxonomy of inductive problems](http://www.charleskemp.com/papers/kempj_ataxonomyofinductiveproblems.pdf) - ***Psychonomic Bulletin & Review***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=2571009743105592927\&hl=en\&as_sdt=0,5)].
+
+* [The Logical Primitives of Thought: Empirical Foundations for Compositional Cognitive Models](http://colala.berkeley.edu/papers/piantadosi2016logical.pdf) - ***Psychological Review***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=5316027496661813145\&hl=en\&as_sdt=0,5)].
+
+* [The Emergence of Organizing Structure in Conceptual Representation](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12580) - ***Cognitive Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=4986316323923233074\&hl=en\&as_sdt=0,5)].
+
+* [Theory Acquisition as Constraint-Based Program Synthesis](https://cogtoolslab.github.io/pdf/wang_cogsci_2021b.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=525148607069840280\&hl=en\&as_sdt=0,5)].
+
+* [Connecting perceptual and procedural abstractions in physical construction](https://escholarship.org/uc/item/9j00x928) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Connecting+perceptual+and+procedural+abstractions+in+physical+construction\&btnG=)].
+
+* [Invariant representation of physical stability in the human brain](https://www.biorxiv.org/content/10.1101/2021.03.19.385641v1.full.pdf) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17431019238600295521\&hl=en\&as_sdt=0,5)].
+
+* [Introduction to The Fluent Calculus](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.4086\&rep=rep1\&type=pdf) - ***Linkoeping University Electronic Press***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=12069059079023496731\&hl=en\&as_sdt=0,5)].
+
+* [From situation calculus to fluent calculus: State update axioms as a solution to the inferential frame problem](https://www.sciencedirect.com/science/article/pii/S0004370299000338) - ***Artificial Intelligence***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10854895617698839149\&hl=en\&as_sdt=0,5)].
+
+* [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Learning_AoG_NeurIPS_2013.pdf) - ***NeurIPS'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4354984630817844670)].
+
+* [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt) - ***Cognitive Psychology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246\&hl=en\&as_sdt=0,5)].
+
+* [A representational analysis of numeration systems](https://www.sciencedirect.com/science/article/pii/0010027795006743) - ***Cognition***, 1995. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=8852566070856662412)].
+
+* [Learning Program Representations for Food Images and Cooking Recipes](https://openaccess.thecvf.com/content/CVPR2022/html/Papadopoulos_Learning_Program_Representations_for_Food_Images_and_Cooking_Recipes_CVPR_2022_paper.html) - ***CVPR'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=7690010749576063125)].
+
+* [Reasoning about Procedures with Natural Language Processing: A Tutorial](https://arxiv.org/abs/2205.07455) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11364086808527515615\&hl=en\&as_sdt=0,5)].
+
+\*[Back to Top](#c)
+
+### Cognitive Development
+
+* [Machine Common Sense Concept Paper](https://arxiv.org/abs/1810.07528) - ***DARPA***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769\&hl=en\&as_sdt=0,5)]. DARPA's perspective on integrating core knowledge from development psychology into machine intelligence systems.
+
+* [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development) - ***Wikipedia***.
+
+* [Cognitive development: An information processing approach](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Cognitive+Development%3A+an+information+processing+approach\&btnG=) - ***B.Blackwell***, 1991. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Cognitive+development%3A+An+information+processing+approach\&btnG=)].
+
+* [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001) - ***Psychological Bulletin***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167\&hl=en\&as_sdt=0,5)]. Alison Gopnik's review on the constructivism idea of developmental research.
+
+* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153) - ***Psychological Review***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080\&hl=en\&as_sdt=0,5)]. Fei Xu's review extending Gopnik's view of constructivism, with the rationality as constraint.
+
+* [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301) - ***Trends in Cognitive Sciences***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335\&hl=en\&as_sdt=0,5)]. Laura Schulz's review on children's exploratory play.
+
+* [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806) - ***Annual Review of Developmental Psychology***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Laura Schulz's review on children's exploratory play, which proposes a new perspective on exploratory play to explain the emergence of irrational behaviors in play.
+
+* [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001) - ***Developmental Psychology***, 1981. \[[All Versions](https://scholar.google.com/scholar?cluster=15547331535034599545\&hl=en\&as_sdt=0,5)].
+
+* [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224) - ***Children Development***, 2003. \[[All Versions](https://scholar.google.com/scholar?cluster=9049737233568227380\&hl=en\&as_sdt=0,5)].
+
+* [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf) - ***Developmental Psychology***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=3033619407322882147\&hl=en\&as_sdt=0,5)].
+
+* [Observing the unexpected enhances infants' learning and exploration](https://stahla.pages.tcnj.edu/files/2015/08/Stahl_Feigenson_Science_2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?start=10\&hl=en\&as_sdt=0,5\&cluster=9247917261616759689)].
+
+* [Word, thought, and deed: the role of object categories in children's inductive inferences and exploratory play](https://psycnet.apa.org/record/2008-12114-008) - ***Developmental Psychology***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=13947689064550390312\&hl=en\&as_sdt=0,5)].
+
+* [Where science starts: Spontaneous experiments in preschoolers' exploratory play](https://www.sciencedirect.com/science/article/pii/S0010027711000916) - ***Cognition***, 2011. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16321989770180281706)].
+
+* [Scientific thinking in young children: Theoretical advances, empirical research, and policy implications](http://alisongopnik.com/Papers_Alison/Scientific%20Thinking%20in%20young%20Children.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=9103846738385460508\&hl=en\&as_sdt=2005)].
+
+* [Finding New Facts; Thinking New Thoughts](http://eccl.scripts.mit.edu/papers/Finding%20New%20Facts_%20Thinking%20New%20Thoughts.pdf) - ***Advances in Child Development and Behavior***, 2012. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Finding+new+facts%3B+thinking+new+thoughts\&btnG=)].
+
+* [Theory learning as stochastic search in the language of thought](https://www.sciencedirect.com/science/article/pii/S0885201412000445) - ***Cognitive Development***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=8036476579458645432\&hl=en\&as_sdt=0,5)].
+
+* [Infants make more attempts to achieve a goal when they see adults persist](https://www.science.org/doi/abs/10.1126/science.aan2317) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=2617011825272996810\&hl=en\&as_sdt=0,5)].
+
+* [Knowing when to quit: Children consider access to solutions when deciding whether to persist](https://cognitivesciencesociety.org/cogsci20/papers/0716/0716.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15997297570269958414\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+
+* [Bayesian Models of Conceptual Development: Learning as Building Models of the World](https://psyarxiv.com/aq3rp/) - ***Annual Review of Developmental Psychology***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=646614032563248495\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+
+* [Sticking to the Evidence? A Behavioral and Computational Case Study of Micro-Theory Change in the Domain of Magnetism](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12765) - ***Cognitive Science***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=4409900195679222965\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+
+* [Cognitive pragmatism: Children flexibly choose between facts and conjectures](https://junyichu.mit.edu/sites/default/files/documents/2018-05-14%20CogSci%20Final.pdf) - ***CogSci'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6978944437676543728\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+
+* [Exploratory play, rational action, and efficient search](https://psyarxiv.com/9yra2/) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17529638197045429028\&hl=en\&as_sdt=0,5)].
+
+* [Children selectively endorse speculative conjectures](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13647?saml_referrer) - ***Child Development***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5672344544260882286\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+
+* [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003) - ***Developmental Psychology***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=4386474921214936914\&hl=en\&as_sdt=0,5)].
+
+* [Childhood as a solution to explore–exploit tensions](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0502) - ***Philosophical Transactions of the Royal Society B: Biological Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11960188575664977017\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+
+* [Children's exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907\&hl=en\&as_sdt=0,5\&as_ylo=2020)].
+
+* [A Developmental Perspective on Executive Function](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2010.01499.x?saml_referrer) - ***Child Development***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=11347590808138984649\&hl=en\&as_sdt=0,5)].
+
+* [Rethinking Executive Function and Its Development](https://journals.sagepub.com/doi/pdf/10.1177/1745691620904771) - ***Psychological Science***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16570230278367237499\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+
+* [Perception of partly occluded objects in infancy](https://www.harvardlds.org/wp-content/uploads/2017/01/Perception-of-partly-occluded-objects-in-infancy-1.pdf) - ***Cognitive Psychology***, 1983. \[[All Versions](https://scholar.google.com/scholar?cluster=4182861116190610992\&hl=en\&as_sdt=0,5)].
+
+* [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940\&hl=en\&as_sdt=0,5)]. \[[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
+
+\*[Back to Top](#c)
+
+### Learning in the Open World
+
+* [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project](https://github.com/JosephKJ/OWOD) ⭐ 1,073 | 🐛 30 | 🌐 Python | 📅 2022-12-19].
+
+* [Online learning of symbolic concepts](https://www.sciencedirect.com/science/article/abs/pii/S002224961730010X) - ***Journal of Mathematical Psychology***, 2017. \[[All Versions](https://scholar.google.com/scholar?start=20\&hl=en\&as_sdt=2005\&sciodt=0,5\&cites=8036476579458645432\&scipsc=)].
+
+* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8413121) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=11909080239486864961\&hl=en\&as_sdt=0,5)]. A comprehensive review on zero-shot learning.
+
+* [Generalizing from a few examples: A survey on few-shot learning](https://www.4paradigm.com/upload/file/20210427/20210427225045_12063.pdf) - ***ACM Computing Survey***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7932202448069313464\&hl=en\&as_sdt=0,5)].
+
+* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799) - ***CVPR'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=856704237994181529\&hl=en\&as_sdt=0,5)]. The first paper introducing the problem of open-world recognition.
+
+* [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=7780542) - ***CVPR'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=3571743951915089896\&hl=en\&as_sdt=0,5)].
+
+* [In the Wild: From ML Models to Pragmatic ML Systems](https://arxiv.org/pdf/2007.02519.pdf) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15243890330014986346\&hl=en\&as_sdt=0,5)]. A comprehensive review on incremental machine learning.
+
+* [Adversarial Filters of Dataset Biases](https://arxiv.org/pdf/2002.04108.pdf) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11617966867048191189\&hl=en\&as_sdt=0,5)].
+
+* [A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning](https://arxiv.org/pdf/2009.01797.pdf) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2640432662088551010\&hl=en\&as_sdt=0,5)].
+
+* [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094884707139778576\&hl=en\&as_sdt=0,5)]. \[[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)].
+
+* [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf) - ***CVPR'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6285495755337309034\&hl=en\&as_sdt=0,5)].
+
+* [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
+
+* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
+
+* [Ontology-guided Semantic Composition for Zero-Shot Learning](https://proceedings.kr.org/2020/87/kr2020-0087-chen-et-al.pdf) - ***KR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1825132732653262003\&hl=en\&as_sdt=0,5)].
+
+* [OntoZSL: Ontology-enhanced Zero-shot Learning](https://arxiv.org/pdf/2102.07339.pdf) - ***WWW'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1042573079110416209\&hl=en\&as_sdt=0,5)].
+
+* [Knowledge-aware Zero-Shot Learning: Survey and Perspective](https://arxiv.org/abs/2103.00070) - ***IJCAI'21*** 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=2596179801089642923\&hl=en\&as_sdt=0,5)].
+
+* [From Red Wine to Red Tomato: Composition with Context](https://ieeexplore.ieee.org/document/8099612) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=6959320578989247472\&hl=en\&as_sdt=0,5)].
+
+* [Attributes as Operators: Factorizing Unseen Attribute-Object Compositions](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_11) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=11627198158637727139\&hl=en\&as_sdt=0,5)].
+
+* [Learning Compositional Representations for Few-Shot Recognition](https://ieeexplore.ieee.org/document/9010671) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7363445845219257348\&hl=en\&as_sdt=0,5)].
+
+* [Symmetry and Group in Attribute-Object Compositions](https://ieeexplore.ieee.org/document/9156505) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16870815556752021056\&hl=en\&as_sdt=0,5)].
+
+* [A causal view of compositional zero-shot recognition](https://proceedings.neurips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2543173389101020482\&hl=en\&as_sdt=0,5)].
+
+* [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849) - ***MM'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15817839338790433509\&hl=en\&as_sdt=0,5)].
+
+* [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14161656227038242300\&hl=en\&as_sdt=0,5)].
+
+\*[Back to Top](#c)
+
+### Learning with Cognitive Plausibility
+
+* [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision) - ***Wikipedia***. Wikipedia on the distinctions and the trade-off between accuracy and precision.
+
+* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) - ***Annual Review of Psychology***, 1989. \[[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475\&hl=en\&as_sdt=0,5)].
+
+* [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***Psychological Review***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446\&hl=en\&as_sdt=0,5)]. The original paper on the recognition-by-components theory.
+
+* [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y) - ***Nature***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7881171273277686092\&hl=en\&as_sdt=0,5)].
+
+* [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***Engineering***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161\&hl=en\&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
+
+* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299\&hl=en\&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
+
+* [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4352064462350202338\&hl=en\&as_sdt=0,5)].
+
+* [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/hash/bf15e9bbff22c7719020f9df4badc20a-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9164011458889391917\&hl=en\&as_sdt=0,5)].
+
+* [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874) - ***ICML'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=10708180947310062390\&hl=en\&as_sdt=0,5)].
+
+* [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6190621467796247477\&hl=en\&as_sdt=0,5)].
+
+* [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584) - ***Cognition***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=5133345254007462915\&hl=en\&as_sdt=0,5)]. The original paper on the idea of curriculum learning.
+
+* [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311) - ***Cognition***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=11813578367725362166\&hl=en\&as_sdt=0,5)].
+
+* [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380) - ***ICML'09***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=8740915934335425405\&hl=en\&as_sdt=0,5)]. The original paper applying the idea of curriculum learning to machine learning.
+
+* [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279) - ***ICCV'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=5979196784405021658\&hl=en\&as_sdt=0,5)].
+
+* [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387) - ***ICCV'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=3467068307444498624\&hl=en\&as_sdt=0,5)]. The original paper on latent state discovery from videos.
+
+* [Explainable and Explicit Visual Reasoning over Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=8517395712319798436\&hl=en\&as_sdt=0,5)].
+
+* [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801\&hl=en\&as_sdt=0,5)].
+
+* [Distributed Representations of Words and Phrases and their Compositionality](https://papers.NeurIPS.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - ***NeurIPS'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=2410615501856807729\&hl=en\&as_sdt=0,5)].
+
+* [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=9197172) - ***ICRA'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7519230802512388210\&hl=en\&as_sdt=0,5)].
+
+* [Action Genome: Actions as Compositions of Spatio-temporal Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=388714326304810525\&hl=en\&as_sdt=0,5)].
+
+* [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://proceedings.neurips.cc/paper/2020/file/64dcf3c521a00dbb4d2a10a27a95a9d8-Paper.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2255457416066730255\&hl=en\&as_sdt=0,5)].
+
+* [Something-Else: Compositional Action Recognition with Spatial-Temporal Interaction Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Materzynska_Something-Else_Compositional_Action_Recognition_With_Spatial-Temporal_Interaction_Networks_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17469863154797360929\&hl=en\&as_sdt=0,5)].
+
+* [Putting visual object recognition in context](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Putting_Visual_Object_Recognition_in_Context_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6207193649298787857\&hl=en\&as_sdt=0,5)].
+
+* [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16154696122208258147\&hl=en\&as_sdt=0,5)].
+
+* [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=5206772) - ***CVPR'09***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=6853730684095116174\&hl=en\&as_sdt=0,5)].
+
+* [Panoramic Learning with A Standardized Machine Learning Formalism](https://arxiv.org/abs/2108.07783) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14222434793711614257\&hl=en\&as_sdt=0,5)].
+
+* [Graininess of judgment under uncertainty: An accuracy-informativeness trade-off](https://psycnet.apa.org/record/1996-10319-001) - ***Journal of Experimental Psychology***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=15366302654259490472\&hl=en\&as_sdt=0,5)].
+
+* [Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms](https://openreview.net/forum?id=GFsU8a0sGB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2486025806014234529\&hl=en\&as_sdt=0,5)].
+
+* [Interplay between rule learning and rule switching in a perceptual categorization task](https://www.biorxiv.org/content/10.1101/2022.01.29.478330v2.abstract) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=7461559646167397406\&hl=en\&as_sdt=0,5)].
+
+\*[Back to Top](#c)
+
+<!--
+### Tasks & Environments
+
+#### Dataset Aggregation
+  * [A Dataset and Architecture for Visual Reasoning with a Working Memory](https://link.springer.com/chapter/10.1007%2F978-3-030-01249-6_44) - ***ECCV'18***, 2018. [[Project](https://github.com/google/cog)].
+  * [PHYRE: A New Benchmark for Physical Reasoning](https://research.fb.com/wp-content/uploads/2019/08/PHYRE-A-New-Benchmark-for-Physical-Reasoning-v4.pdf) - ***NeurIPS'19***, 2019.
+  * [CATER: A diagnostic dataset for Compositional Actions & TEmporal Reasoning](https://openreview.net/forum?id=HJgzt2VKPB) - ***ICLR'20***, 2020. [[Project](https://rohitgirdhar.github.io/CATER/)].
+  * [CausalWorld: A Robotic Manipulation Benchmark for Causal Structure and Transfer Learning](https://arxiv.org/abs/2010.04296), 2020.
+
+#### Embodied AI Environment
+  * [ThreeDWorld](http://www.threedworld.org/) - ***MIT-IBM***. [[Paper](https://arxiv.org/abs/2007.04954)].
+  * [Rearrangement: A Challenge for Embodied AI](https://arxiv.org/pdf/2011.01975.pdf), 2020.
+  * [iGibson](http://svl.stanford.edu/igibson/) - ***Stanford***. [[Paper](https://ieeexplore.ieee.org/document/8954627)].
+  * [AI2-THOR](https://ai2thor.allenai.org/ithor) - ***Allen Institute***. [[Paper](https://arxiv.org/abs/1712.05474)].
+  * [Robo-THOR](https://ai2thor.allenai.org/robothor) - ***Allen Institute***. [[Paper](https://arxiv.org/abs/2004.06799)].
+  * [Manipula-THOR](https://ai2thor.allenai.org/manipulathor) - ***Allen Institute***. [[Paper](https://arxiv.org/abs/2104.11213)].
+  * [RLBench](https://sites.google.com/view/rlbench) - ***Imperial College***. [[Paper](https://ieeexplore.ieee.org/document/9001253)].
+
+#### First-Person Vision
+  * [First-Person Vision](https://ieeexplore.ieee.org/document/6232429) - ***Proceedings of the IEEE***, 2012.
+  * [The Evolution of First Person Vision Methods: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7055926) - ***Trans. CSVT***, 2015.
+  * [Understanding the Nature of First-Person Videos: Characterization and Classification using Low-Level Features](http://vijaychan.github.io/Publications/2014%20CVPR%20Workshop%20-%20Understanding%20the%20Nature%20of%20First-Person%20Videos.pdf) - ***CVPR'14***, 2014.
+  * [Pooled Motion Features for First-Person Videos](https://openaccess.thecvf.com/content_cvpr_2015/papers/Ryoo_Pooled_Motion_Features_2015_CVPR_paper.pdf) - ***CVPR'15***, 2015.
+  * [Actor and Observer: Joint Modeling of First and Third-Person Videos](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sigurdsson_Actor_and_Observer_CVPR_2018_paper.pdf) - ***CVPR'18***, 2018.
+  * [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_41) - ***ECCV'20***, 2020.
+  * [Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088213) - ***Trans. PAMI***, 2020.
+  * [View-Action Representation Learning for Active First-Person Vision](https://ieeexplore.ieee.org/document/9064828) - ***Trans. CSVT***, 2021.
+  * [Design and Use Paradigms for Gazebo, An Open-Source Multi-Robot Simulator](https://ieeexplore.ieee.org/abstract/document/1389727) - ***IROS'04***, 2004. [[Project](http://gazebosim.org/)].
+  * [ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://arxiv.org/pdf/1605.02097v2.pdf) - ***CIG'16***, 2016. [[Project](http://vizdoom.cs.put.edu.pl/)].
+  * [Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset](https://arxiv.org/abs/2011.12263), 2020.  
+  * **Visual Experience Database** [[Project](http://visualexperiencedatabase.org/research.html)]. [[Publications](http://visualexperiencedatabase.org/publications.html)].
+
+#### Abstract Reasoning Challenge
+  * [On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf) - ***Google Research***, 2019.
+  * [Abstract Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/)
+
+#### AI Birds Challenge
+  * [AI-Birds](https://aibirds.org) - ***IJCAI***.
+  * [Hi-Phy: A Benchmark for Hierarchical Physical Reasoning](https://openreview.net/forum?id=AcL1ORzw0Nf), 2021.
+
+#### Minecraft
+  * [Mining Learning and Crafting Scientific Experiments: A Literature Review on the Use of Minecraft in Education and Research](https://eric.ed.gov/?id=EJ1097278) - ***Journal on Eduction Technology & Society***, 2016.
+
+##### Malmo Platform for Minecraft AI
+  * [The Malmo Platform for Artificial Intelligence Experimentation](https://www.microsoft.com/en-us/research/publication/malmo-platform-artificial-intelligence-experimentation/) ***IJCAI'16***, 2016. 
+  * [[Malmo](https://github.com/Microsoft/malmo#getting-started)]. 
+  * [[Malmo-env](https://github.com/Microsoft/malmo/tree/master/MalmoEnv)]. 
+  * [[Malmo-Tutorials](https://microsoft.github.io/malmo/0.17.0/Python_Examples/Tutorial.pdf)].
+  * [[MineRL](https://minerl.io/)].
+  * [[MarLo Challenge 2018](https://github.com/crowdAI/marLo)].
+ 
+#####  **Artificial Intelligence**
+  * [Multi-task curriculum learning in a complex, visual, hard-exploration domain: Minecraft](https://arxiv.org/abs/2106.14876), 2021.
+  * [Learning to execute instructions in a Minecraft dialogue](https://www.aclweb.org/anthology/2020.acl-main.232/) - ***ACL'20***, 2020.
+  * [Collaborative Dialogue in Minecraft](https://www.aclweb.org/anthology/P19-1537.pdf) - ***ACL'19***, 2019.
+  * [Learning Skill Hierarchies from Predicate Descriptions and Self-Supervision](http://web.mit.edu/tslvr/www/papers/genplan20_camera_ready.pdf) - ***AAAI GenPlan Workshop***, 2020.
+  * [AMRL: Aggregated Memory for Reinforcement Learning](https://openreview.net/pdf?id=Bkl7bREtDr) - ***ICLR'20***, 2020.
+  * [MineRL: A Large-Scale Dataset of Minecraft Demonstrations](https://www.ijcai.org/Proceedings/2019/0339.pdf) ***IJCAI'19***, 2019. [[2020 Competition](https://arxiv.org/abs/2106.03748)].
+  * [Design Mining for Minecraft Architecture](http://www.cs.cornell.edu/~eland/papers/aiide2018.pdf) - ***AAAI'18***, 2018.
+  * [Adaptive Agents in Minecraft: A Hybrid Paradigm for Combining Domain Knowledge with Reinforcement Learning](https://link.springer.com/chapter/10.1007%2F978-3-319-71679-4_6) - ***AAMAS'17***, 2017.
+  * [Asynchronous Data Aggregation for Training End to End Visual Control Networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/fp185-monfort-1.pdf) - ***AAMAS'17***, 2017.
+  * [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14630/13950) - ***AAAI'17***, 2017.
+  * [Modular Multitask Reinforcement Learning with Policy Sketches](http://proceedings.mlr.press/v70/andreas17a.html) - ***ICML'17***, 2017.
+  * [Control of memory, active perception, and action in minecraft](http://proceedings.mlr.press/v48/oh16.pdf) - ***ICML'16***, 2016.
+  * [Learning Behavior from Demonstration in Minecraft via Symbolic Similarity Measures](fdg2015.org/papers/fdg2015_paper_11.pdf) - ***FDG'15***, 2015.
+  
+#####  **Cognitive Science**
+  * [How Players Speak to an Intelligent GameCharacter Using Natural Language Messages](http://todigra.org/index.php/todigra/article/view/88/139) - ***DiGRA***, 2018.
+  * [Minecraft as a Generative Platform for Analyzing and Practicing Spatial Reasoning](https://link.springer.com/chapter/10.1007%2F978-3-030-57983-8_22) - ***Spatial Cognition'20***, 2020.
+  * [Generative Design in Minecraft: Chronicle Challenge](http://computationalcreativity.net/iccc2019/papers/iccc19-lbp-7.pdf) - ***ICCC'20***, 2020.
+  * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070) - ***AAAI'20***, 2020.
+  * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf) - ***SIGDial'20***, 2020.
+
+*[Back to Top](#c)-->
+
+## Academic Tools
+
+### Courses
+
+* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT***. Courses on computational cognitive science from MIT, Harvard, and Stanford.
+
+* [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) - ***MIT***. Armando Solar-Lezama's elementary course on program synthesis.
+
+* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***MIT***. \[[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450\&hl=en\&as_sdt=0,5)]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems.
+
+* [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics, including matheatical logic, set theory, graph theory, formal language (and automata), basic number theory (e.g., counting), and other related topics.
+
+\*[Back to Top](#c)
+
+### Programming
+
+* [Probabilistic Models of Cognition](https://probmods.org/) - ***MIT***. The probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models.
+
+\*[Back to Top](#c)
+
+### Paper Writing
+
+* [LaTex Configuration](LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
+
+* [BibTex Template](BibTex/references_header.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
+
+* [bioRender](https://www.biorender.com/) - ***bioRender***. Create professional science figures in minutes by browsing thousands of pre-made icons and templates from more than 30 fields of life sciences.
+
+* [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature***. Nature official guidelines for composing abstracts.
+
+* [How to write a superb literature review](https://www.nature.com/articles/d41586-020-03422-x) - ***Nature***, 2020. Nature speaks to old hands and first timers about the work they did to make their reviews sing.
+
+* [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - ***Nature***. Nature guidance on writing scientific papers.
+
+* [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) - ***McGill University***. Guidelines for introducing a machine learning algorithm with guarantee of reproducibility.
+
+\*[Back to Top](#c)
+
+### Paper Reading
+
+* [How to Read a Paper](https://www.cs.uni-potsdam.de/bs/teaching/docs/courses/ss2020/scn/material/p83-keshavA.pdf) - ***ACM SIGCOMM Computer Communication Review***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=7234542241721187587\&hl=en\&as_sdt=0,5)]. A comprehensive tutorial on reading scientific papers.
+
+* [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper) - ***Science***, 2016. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=How+to+%28seriously%29+read+a+scientific+paper\&btnG=)]. Science interview on reading scientific papers.
+
+* [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***Nature***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804\&hl=en\&as_sdt=0,5)]. Nature perspective on reading scientific papers.
+
+* [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf) - ***MIT***. MIT guidance on strategies for reading papers given different time constraints.
+
+* [Text Visualization Browser](https://textvis.lnu.se/) - ***ISOVIS group***, 2015. \[[Paper](https://cs.lnu.se/isovis/pubs/docs/kucher-pacificvis15-postprint.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7000995325728444282\&hl=en\&as_sdt=0,5)]. A Hub of Text Visualization Techniques.
+
+\*[Back to Top](#c)
+
+### Literature Management
+
+* [How to keep up with the scientific literature](https://www.science.org/content/article/how-keep-scientific-literature) - ***Science***, 2016. Science interview on organizing scientific papers.
+
+* [Scientific literature: Information overload](https://www.nature.com/articles/nj7612-457a) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=9898832432826237365\&hl=en\&as_sdt=0,5)]. Perspective on handling overloaded information from scientific literature.
+
+* [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) - ***Microsoft Research***. Heterogeneous graph containing scientific publication records, citation relationships between those publications, as well as authors, institutions, journals, conferences, and fields of study.
+
+* [An Overview of Microsoft Academic Service (MAS) and Applications](http://sonyis.me/paperpdf/Microsoft%20Academic%20Graph%20WWW%202015.pdf) - ***WWW'15***, 2015. \[[All Versios](https://scholar.google.com/scholar?cluster=9075899176667058496\&hl=en\&as_sdt=0,5)]. Original paper on Microsoft Academic Graph.
+
+* [Goodbye, Microsoft Academic – Hello, open research infrastructure?](https://blogs.lse.ac.uk/impactofsocialsciences/2021/05/27/goodbye-microsoft-academic-hello-open-research-infrastructure/) - ***LSE Impact Blog***, 2021. An interpretation of Microsoft's strategy on research infrastructure.
+
+* [Semantic Scholar](https://www.semanticscholar.org/) - ***Allen Institute for AI Research***. AI-powered scientific literature research tool.
+
+* [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950\&hl=en\&as_sdt=0,5)]. Semantic Scholar with extracting feature and metadata from raw paper data.
+
+* [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925\&hl=en\&as_sdt=0,5)]. An open corpus of academic papers released by Semantic Scholar.
+
+* [Litmaps](https://www.litmaps.com/) - ***Litmap Ltd***. For interactive literature map construction and linked document management.
+
+* [VOSviewer](https://www.vosviewer.com/) - ***Leiden University***. For constructing and visualizing bibliometric networks.
+
+* [StateOfTheArt.AI](https://www.stateoftheart.ai/) - ***StateOfTheArtAI***. For tracking, collecting and visualizing the development of AI research.
+
+\*[Back to Top](#c)
+
+### Knowledge Management
+
+* [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA (PDF only).
+
+* [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). \[[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. \[[Wikipedia-EN](https://en.wikipedia.org/wiki/Chinese_Library_Classification)].
+
+* [DDC at German National Library](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) - ***Deutsche National Bibliothek***. Deway Decimal Classification (DDC) based classification system of Germany (online user interface). \[[DNB Website](https://www.dnb.de/EN/Professionell/DDC-Deutsch/DDCinDNB/ddcindnb_node.html)].
+
+* [National Dite Library Classification](https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html) - ***National Diet Library of Japan***. Classification system of Japan (PDF only).
+
+* [DDC at OCLC (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes) - ***Online Computer Library Center (OCLC)***. \[[OCLC Website](https://www.oclc.org/en/home.html)]. \[[Introduction to DDC](https://www.oclc.org/content/dam/oclc/dewey/versions/print/intro.pdf)]. \[[DDC Manual](https://www.oclc.org/content/dam/oclc/webdewey/help/full_manual.pdf)]. Dewey Decimal Classification (DDC) system for worldwide library resouce construction. \[[DDC Class 000 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/000.pdf)]. \[[DDC Class 100 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/100.pdf)]. \[[DDC Class 200 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/200.pdf)]. \[[DDC Class 300 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/300.pdf)]. \[[DDC Class 400 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/400.pdf)]. \[[DDC Class 500 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/500.pdf)]. \[[DDC Class 600 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/600.pdf)]. \[[DDC Class 700 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/700.pdf)]. \[[DDC Class 800 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/800.pdf)]. \[[DDC Class 900 (PDF only)](https://www.oclc.org/content/dam/oclc/webdewey/help/900.pdf)].
+
+* [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization) - ***Wikipedia***. Wikipedia on knowledge organization methods.
+
+* [The Zettelkasten Method](https://zettelkasten.de/) - ***Bielefeld University***. Relating ideas in graphs and multi-labels.
+
+* [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - ***Wikipedia***. Wikipedia on the Zettelkasten method.
+
+* [Roam Research](https://roamresearch.com/) - ***Roam Research***. For linked document management, visualization, and sharing.
+
+* [Foam](https://foambubble.github.io/foam/) - ***Foambubble***. For linked document management, visualization, and sharing, opensourced softward built on VSCode.
+
+* [Building a Second Brain](https://www.buildingasecondbrain.com/) - ***Forte Labs, LLC***. Connecting ideas in graphs.
+
+* [Zotero](https://www.zotero.org/) - ***Digital Scholar***. For reference management to manage bibliographic data and research related materials.
+
+* [Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine](https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0) - ***Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, Brill***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=1786807670077004336\&hl=en\&as_sdt=0,5)].
+
+* [The card index as creativity machine](https://culturemachine.net/wp-content/uploads/2019/01/373-604-1-PB.pdf) - ***Culture Machine***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=9767873312286889264\&hl=en\&as_sdt=0,5)].
+
+* [Where Does Niklas Luhmann's Card Index Come From?](https://www.researchgate.net/profile/Alberto-Cevolini/publication/328624186_Where_Does_Niklas_Luhmann%27s_Card_Index_Come_From/links/609f818e299bf147699a401d/Where-Does-Niklas-Luhmanns-Card-Index-Come-From.pdf) - ***Erudition and the Republic of Letters***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8279465066043884141\&hl=en\&as_sdt=0,5)]. A simplified introduction on Luhmann's Zettelkasten.
+
+* [Niklas Luhmann's Card Index: The Fabrication of Serendipity](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/luhmann-archiv/pdf/jschmidt_niklas-luhmanns-card-index_-sociologica_2018_12-1.pdf) - ***Sociologica***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=12440286698665929622\&hl=en\&as_sdt=0,5)].
+
+* [Communicating with Slip Boxes](https://luhmann.surge.sh/communicating-with-slip-boxes) - 2019. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Communicating+with+slip+boxes+luhmann\&btnG=)].
+
+\*[Back to Top](#c)
+
+## Institute & Researcher
+
+### MIT
+
+* [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/) - ***MIT***.
+
+* [Josh Tenenbaum](https://cocosci.mit.edu/josh) - ***Department of Brain and Cognitive Sciences, CSAIL, MIT***, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***MIT***.
+
+* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe) - ***Department of Brain and Cognitive Sciences, MIT***, [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/) - ***MIT***.
+
+* [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) - ***Department of Brain and Cognitive Sciences, MIT***, [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***MIT***.
+
+* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***, [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***MIT***.
+
+* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***, [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***MIT***.
+
+\*[Back to Top](#c)
+
+### Stanford
+
+* [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***Computer Science Department, Human-Centered AI Institute, Stanford***, [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***Stanford***.
+
+* [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Department of Psychology, Computer Science Department, Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Stanford***.
+
+* [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Department of Psychology, Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Stanford***.
+
+* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***Department of Psychology, Stanford***, [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***Stanford***.
+
+* [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Computer Science Department, Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Stanford***.
+
+* [Jeremy Bailenson](https://comm.stanford.edu/faculty-bailenson/) - ***Department of Communication, Stanford***, [Virtual Human Interaction Lab (VHIL)](https://stanfordvr.com/) - ***Stanford***.
+
+* [Jiajun Wu](https://jiajunwu.com/) - ***Computer Science Department, Stanford***.
+
+* [Judith Fan](https://profiles.stanford.edu/judith-fan) - ***Department of Psychology, Stanford***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***Stanford***.
+
+\*[Back to Top](#c)
+
+### Princeton
+
+* [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***Department of Psychology, Princeton***, [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***Princeton***.
+
+* [Thomas Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Princeton***.
+
+\*[Back to Top](#c)
+
+### Harvard
+
+* [Elizabeth Spelke](https://psychology.fas.harvard.edu/people/elizabeth-s-spelke) - ***Department of Psychology, Harvard***, [Harvard Laboratory for Developmental Studies](https://www.harvardlds.org/) - ***Harvard***.
+
+* [Tomer Ullman](https://www.tomerullman.org/) - ***Department of Psychology, Harvard***, [Computation, Cognition, and Development Lab (CoCoDev)](https://cocodev.fas.harvard.edu/) - ***Harvard***.
+
+* [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) - ***Department of Psychology, Harvard***, [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***Harvard***.
+
+* [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) - ***Department of Psychology, Harvard***, [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***Harvard***.
+
+\*[Back to Top](#c)
+
+### UCLA
+
+* [Center for Vision, Cognition, Learning and Autonomy (VCLA)](http://vcla.stat.ucla.edu/) - ***Department of Statistics, UCLA***.
+
+* [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/) - ***Department of Statistics, UCLA***.
+
+* [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html) - ***Department of Statistics, Department of Psychology, UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***UCLA***.
+
+* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***Department of Psychology, Department of Statistics, UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***UCLA***.
+
+* [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***Department of Computer Science, UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***UCLA***.
+
+\*[Back to Top](#c)
+
+### UC Berkeley
+
+* [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***Department of Electrical Engineering and Computer Science, UC Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***UC Berkeley***.
+
+* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu) - ***Department of Psychology, UC Berkeley***, [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***UC Berkeley***.
+
+* [Alison Gopnik](http://alisongopnik.com/) - ***Department of Psychology, UC Berkeley***, [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/) - ***UC Berkeley***.
+
+* [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/) - ***Department of Psychology, UC Berkeley***, [The computation and language lab (colala)](http://colala.berkeley.edu/) - ***UC Berkeley***.
+
+* [Celeste Kidd](http://www.celestekidd.com/) - ***Department of Psychology, UC Berkeley***, [Kidd Lab](https://www.kiddlab.com/) - ***UC Berkeley***.
+
+\*[Back to Top](#c)
+
+### BNU
+
+* [Yanchao Bi](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Bzz/a552402e529a4f27b979378abd42c10e.htm) - ***IDG/McGovern Institute for Brain Research and the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)***, [Yanchao Bi's Concept Lab (Bi Lab)](http://bilab.bnu.edu.cn/) - ***BNU***.
+
+\*[Back to Top](#c)
+
+### PKU
+
+* [Song-Chun Zhu](https://zhusongchun.net/) - ***School of AI and Institute for AI, Peking University (PKU)***.
+
+* [Yixin Zhu](https://yzhu.io/) - ***School of AI and Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
+
+\*[Back to Top](#c)
+
+### UCSD
+
+* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***Department of Computer Science, UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***UCSD***.
+
+* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***Department of Psychology, UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***UCSD***.
+
+\*[Back to Top](#c)
+
+### NYU
+
+* [Ernest Davis](https://cs.nyu.edu/~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
+
+* [Gary Marcus](http://garymarcus.com/index.html) - ***Department of Psychology, NYU***.
+
+* [Brenden Lake](https://cims.nyu.edu/~brenden/) - ***Department of Psychology, NYU***, [Human & Machine Learning Lab (Lake Lab)](https://lake-lab.github.io/) - ***NYU***.
+
+* [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html) - ***Department of Psychology, NYU***, [Computation & Cognition Lab](http://gureckislab.org/) - ***NYU***.
+
+* [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html) - ***Department of Psychology, Center for Neural Science, NYU***, [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/) - ***NYU***.
+
+\*[Back to Top](#c)
+
+### JHU
+
+* [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
+
+\*[Back to Top](#c)
+
+### SIT
+
+* [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology (SIT)***, [Computation and Decision-Making Lab](https://codec-lab.github.io/) - ***SIT***.
+
+\*[Back to Top](#c)
+
+## People & Book
+
+### John Hopcroft
+
+Theoretical computer scientist.
+
+* [Introduction to Automata Theory, Languages, and Computation](http://elib.vku.udn.vn/bitstream/123456789/2543/1/2007.%20Introduction%20to%20Automata%20Theory%2C%20Languages%2C%20and%20Computations%20%283rd%20edition%29.pdf) - ***Pearson***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=326269839585842480)].
+
+* [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) - ***Cambridge University Press***. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1802704438630899850)].
+
+\*[Back to Top](#c)
+
+### Ulf Grenander
+
+Applied mathematician, the founder of General Pattern Theory.
+
+* [A Calculus of Ideas: A Mathematical Study of Thinking](https://www.dam.brown.edu/ptg/REPORTS/calculustext.PDF) - ***World Scientific Publishing Company***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=12182416000849265255\&hl=en\&as_sdt=0,5)].
+
+* [General Pattern Theory: A Mathematical Study of Regular Structures](https://global.oup.com/academic/product/general-pattern-theory-9780198536710?cc=lt\&lang=de#) - ***Oxford University Press***, 1993. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=General+Pattern+Theory\&btnG=)].
+
+\*[Back to Top](#c)
+
+### David Marr
+
+Computational Cognitive Neuroscientist, the establisher of the Levels of Analysis.
+
+* [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. \[[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142\&hl=en\&as_sdt=0,44)].
+
+\*[Back to Top](#c)
+
+### Michael Tomasello
+
+Cognitive scientist, set up the foundations of studying human communications.
+
+* [Origins of human communication](https://1lib.net/book/541274/39859f) - ***MIT Press***, 2010. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=2553369883266458474)].
+
+* [The cultural origins of human cognition](https://hk1lib.org/book/541275/1452f8?id=541275\&secret=1452f8) - ***Havard University Press***, 2000. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=5000469061641945144)].
+
+\*[Back to Top](#c)
+
+### Judea Pearl
+
+Applied mathematician, proposed causal intervention on siamese bayesian networks.
+
+* [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/) - ***Basic Books***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932\&hl=en\&as_sdt=0,5)].
+
+* [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725\&secret=2ec8f1) - ***Cambridge University Press***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611\&hl=en\&as_sdt=0,5\&as_vis=1)].
+
+\*[Back to Top](#c)
+
+### Susan Carey
+
+Developmental psychologist, proposed *object* as a core knowledge of human intelligence.
+
+* [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457\&secret=42178f) - ***Oxford University Press***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821\&hl=en\&as_sdt=0,5)].
+
+* [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***MIT Press***, 1985. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=conceptual+change+in+childhood+susan+carey\&btnG=)].
+
+\*[Back to Top](#c)
+
+### Daniel Kahneman
+
+Computational cognitive scientist and Economist, set up the foundations for Decision Theory.
+
+* [Thinking, fast and slow](https://hk1lib.org/book/2181569/f5e85a?id=2181569\&secret=f5e85a) - ***Farrar Straus Giroux***, 2011. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=3255681708785115121)].
+
+\*[Back to Top](#c)
+
+### Karl Popper
+
+Scientific philosophor, the founder of scientific verification theories.
+
+* [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***Routledge***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424\&hl=en\&as_sdt=0,5)].
+
+* [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***Routledge***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350\&hl=en\&as_sdt=0,5)].
+
+\*[Back to Top](#c)
+
+## About
+
+The initiator of this repo has been struggling to taxonomize related topics, since there are so many perspectives to follow, such as task-oriented, technique-oriented, and metaphysics-oriented. Finally he decided to focus on the perspective of ***The Sciences of Intelligence***---each topic describes a phenomenon of intelligence, or an intelligent behavior---they show the objectives of reverse-engineering human intelligence for computational methods. These topics are never restricted to specific technical methods or tasks, but are trying to organize the nature of intelligence---from both *the software perspective* and *the hardware perspective*.
+
+Obviously, this reading list is far from covering the every aspect of AGI and CoCoSci. Since the list is a by-product of the literature reviews when the initiator is working on Abduction and Bayesian modeling, other topics are also collected with biases, more or less. Abduction may be the way humans explain the world with the known, and discover the unknown, requiring much more investigations into its computational basis, cognitive underpinnings, and applications to AI. Please feel free to reach out!
+
+\*[Back to Top](#c)
 
 ***
 
