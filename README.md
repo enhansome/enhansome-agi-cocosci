@@ -582,7 +582,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 #### Pragmatics
 
-* [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool](https://github.com/gboeing/osmnx) ⭐ 5,859 | 🐛 3 | 🌐 Python | 📅 2026-07-31]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
+* [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool](https://github.com/gboeing/osmnx) ⭐ 5,862 | 🐛 3 | 🌐 Python | 📅 2026-07-31]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***. A computational philosophy account of Pragmatics, whilch studies utterances in specific contexts.
 
@@ -840,7 +840,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 #### DSL Program Synthesis
 
-* [pix2code: Generating Code from a Graphical User Interface Screenshot](https://dl.acm.org/doi/abs/10.1145/3220134.3220135) - ***ACM SIGCHI Symposium on Engineering Interactive Computing Systems***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8296741513177971931)]. \[[Code](https://github.com/tonybeltramelli/pix2code) ⭐ 12,014 | 🐛 9 | 🌐 Python | 📅 2024-05-29]. \[[Website](https://uizard.io/research/)]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies).
+* [pix2code: Generating Code from a Graphical User Interface Screenshot](https://dl.acm.org/doi/abs/10.1145/3220134.3220135) - ***ACM SIGCHI Symposium on Engineering Interactive Computing Systems***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8296741513177971931)]. \[[Code](https://github.com/tonybeltramelli/pix2code) ⭐ 12,015 | 🐛 9 | 🌐 Python | 📅 2024-05-29]. \[[Website](https://uizard.io/research/)]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies).
 
 * [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8063693456660536915)]. \[[Project](https://github.com/ac-rad/xdl-generation) ⭐ 48 | 🐛 1 | 🌐 JavaScript | 📅 2024-12-06]. \[[Website](https://ac-rad.github.io/clairify/)]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.
 
@@ -2758,4 +2758,4 @@ Obviously, this reading list is far from covering the every aspect of AGI and Co
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
