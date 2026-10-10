@@ -140,7 +140,7 @@
                     "open_issues": 91,
                     "owner": "facebookresearch",
                     "repo": "ImageBind",
-                    "stars": 9074,
+                    "stars": 9076,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:57.962Z"
@@ -277,10 +277,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-31T17:24:41Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "gboeing",
                     "repo": "osmnx",
-                    "stars": 5864,
+                    "stars": 5866,
                     "topics": [
                       "geography",
                       "geospatial",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:27:32.272Z",
+    "last_updated": "2026-10-10T01:52:39.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
