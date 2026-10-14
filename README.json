@@ -437,7 +437,7 @@
                     "open_issues": 9,
                     "owner": "tonybeltramelli",
                     "repo": "pix2code",
-                    "stars": 12014,
+                    "stars": 12015,
                     "topics": [
                       "datasets",
                       "deep-learning",
@@ -754,7 +754,7 @@
                     "open_issues": 163,
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
-                    "stars": 12996,
+                    "stars": 12999,
                     "topics": [
                       "class-activation-maps",
                       "computer-vision",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:07:40.276Z",
+    "last_updated": "2026-10-14T01:20:31.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
