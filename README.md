@@ -582,7 +582,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 #### Pragmatics
 
-* [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool](https://github.com/gboeing/osmnx) ⭐ 5,875 | 🐛 5 | 🌐 Python | 📅 2026-07-31]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
+* [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool](https://github.com/gboeing/osmnx) ⭐ 5,876 | 🐛 5 | 🌐 Python | 📅 2026-07-31]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***. A computational philosophy account of Pragmatics, whilch studies utterances in specific contexts.
 
@@ -1195,7 +1195,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 #### Explainable Deep Learning
 
-* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 13,003 | 🐛 166 | 🌐 Python | 📅 2026-08-13 - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 13,002 | 🐛 166 | 🌐 Python | 📅 2026-08-13 - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 * [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data](https://github.com/MadryLab/backgrounds_challenge) ⭐ 144 | 🐛 6 | 🌐 Python | 📅 2020-10-02]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 
@@ -1665,7 +1665,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](Co
 
 * [The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4](https://arxiv.org/abs/2311.07361) - ***Microsoft Research AI4Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?%2C5\&q=The+Impact+of+Large+Language+Models+on+Scientific+Discovery%3A+a+Preliminary+Study+using+GPT-4\&btnG=)]. \[[Project](https://github.com/microsoft/LLM4ScientificDiscovery) ⚠️ Archived]. A survey on the performance of LLMs within the context of scientific discovery, focusing on GPT-4.
 
-* [BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology](https://aclanthology.org/2023.emnlp-main.162/) - ***EMNLP'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1222312709622462659)]. \[[Project](https://github.com/bioplanner/bioplanner) ⭐ 30 | 🐛 7 | 🌐 Python | 📅 2024-07-05]. This paper presents an automatic evaluation framework for the task of planning experimental protocols, and introduces BioProt: a dataset of biology protocols with corresponding pseudocode representations.
+* [BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology](https://aclanthology.org/2023.emnlp-main.162/) - ***EMNLP'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1222312709622462659)]. \[[Project](https://github.com/bioplanner/bioplanner) ⭐ 30 | 🐛 8 | 🌐 Python | 📅 2024-07-05]. This paper presents an automatic evaluation framework for the task of planning experimental protocols, and introduces BioProt: a dataset of biology protocols with corresponding pseudocode representations.
 
 * [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
 
@@ -2758,4 +2758,4 @@ Obviously, this reading list is far from covering the every aspect of AGI and Co
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

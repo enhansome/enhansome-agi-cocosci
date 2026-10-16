@@ -280,7 +280,7 @@
                     "open_issues": 5,
                     "owner": "gboeing",
                     "repo": "osmnx",
-                    "stars": 5875,
+                    "stars": 5876,
                     "topics": [
                       "geography",
                       "geospatial",
@@ -754,7 +754,7 @@
                     "open_issues": 166,
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
-                    "stars": 13003,
+                    "stars": 13002,
                     "topics": [
                       "class-activation-maps",
                       "computer-vision",
@@ -867,7 +867,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-07-05T19:12:54Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "bioplanner",
                     "repo": "bioplanner",
                     "stars": 30,
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:45:28.188Z",
+    "last_updated": "2026-10-16T00:38:22.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
