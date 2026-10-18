@@ -280,7 +280,7 @@
                     "open_issues": 5,
                     "owner": "gboeing",
                     "repo": "osmnx",
-                    "stars": 5876,
+                    "stars": 5877,
                     "topics": [
                       "geography",
                       "geospatial",
@@ -712,7 +712,7 @@
                     "open_issues": 17,
                     "owner": "alvinwan",
                     "repo": "neural-backed-decision-trees",
-                    "stars": 624,
+                    "stars": 625,
                     "topics": [
                       "cifar10",
                       "cifar100",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:42:44.424Z",
+    "last_updated": "2026-10-18T00:11:49.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
