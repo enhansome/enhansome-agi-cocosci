@@ -140,7 +140,7 @@
                     "open_issues": 91,
                     "owner": "facebookresearch",
                     "repo": "ImageBind",
-                    "stars": 9081,
+                    "stars": 9082,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:57.962Z"
@@ -280,7 +280,7 @@
                     "open_issues": 5,
                     "owner": "gboeing",
                     "repo": "osmnx",
-                    "stars": 5885,
+                    "stars": 5886,
                     "topics": [
                       "geography",
                       "geospatial",
@@ -437,7 +437,7 @@
                     "open_issues": 9,
                     "owner": "tonybeltramelli",
                     "repo": "pix2code",
-                    "stars": 12012,
+                    "stars": 12011,
                     "topics": [
                       "datasets",
                       "deep-learning",
@@ -750,11 +750,11 @@
                     "id": 92983437,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-13T07:15:26Z",
-                    "open_issues": 169,
+                    "last_commit": "2026-11-01T05:07:17Z",
+                    "open_issues": 166,
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
-                    "stars": 13002,
+                    "stars": 13004,
                     "topics": [
                       "class-activation-maps",
                       "computer-vision",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T01:22:51.362Z",
+    "last_updated": "2026-11-02T01:42:59.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
@@ -972,7 +972,7 @@
       "language": "TeX",
       "license": "CC0-1.0",
       "last_commit": "2026-04-04T00:47:09Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "SHI-Yu-Zhe",
       "repo": "awesome-agi-cocosci",
       "stars": 398,
