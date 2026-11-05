@@ -140,7 +140,7 @@
                     "open_issues": 91,
                     "owner": "facebookresearch",
                     "repo": "ImageBind",
-                    "stars": 9085,
+                    "stars": 9084,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:57.962Z"
@@ -280,7 +280,7 @@
                     "open_issues": 5,
                     "owner": "gboeing",
                     "repo": "osmnx",
-                    "stars": 5888,
+                    "stars": 5889,
                     "topics": [
                       "geography",
                       "geospatial",
@@ -751,7 +751,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-01T05:07:17Z",
-                    "open_issues": 169,
+                    "open_issues": 170,
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
                     "stars": 13007,
@@ -938,7 +938,7 @@
                 "open_issues": 30,
                 "owner": "JosephKJ",
                 "repo": "OWOD",
-                "stars": 1072,
+                "stars": 1073,
                 "topics": [
                   "continual-learning",
                   "contrastive-learning",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:36:29.789Z",
+    "last_updated": "2026-11-05T02:41:55.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
