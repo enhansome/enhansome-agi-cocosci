@@ -276,8 +276,8 @@
                     "id": 64045935,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-07-31T17:24:41Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-11-07T23:54:12Z",
+                    "open_issues": 3,
                     "owner": "gboeing",
                     "repo": "osmnx",
                     "stars": 5891,
@@ -754,7 +754,7 @@
                     "open_issues": 170,
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
-                    "stars": 13010,
+                    "stars": 13011,
                     "topics": [
                       "class-activation-maps",
                       "computer-vision",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:15:44.295Z",
+    "last_updated": "2026-11-08T01:43:50.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
