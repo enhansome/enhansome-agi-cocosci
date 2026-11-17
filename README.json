@@ -276,11 +276,11 @@
                     "id": 64045935,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-15T00:13:37Z",
+                    "last_commit": "2026-11-17T00:39:03Z",
                     "open_issues": 1,
                     "owner": "gboeing",
                     "repo": "osmnx",
-                    "stars": 5900,
+                    "stars": 5901,
                     "topics": [
                       "geography",
                       "geospatial",
@@ -685,7 +685,7 @@
                     "open_issues": 36,
                     "owner": "LAMDA-NJU",
                     "repo": "Deep-Forest",
-                    "stars": 961,
+                    "stars": 962,
                     "topics": [
                       "deep-forest",
                       "ensemble-learning",
@@ -754,7 +754,7 @@
                     "open_issues": 171,
                     "owner": "jacobgil",
                     "repo": "pytorch-grad-cam",
-                    "stars": 13013,
+                    "stars": 13012,
                     "topics": [
                       "class-activation-maps",
                       "computer-vision",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:20:08.080Z",
+    "last_updated": "2026-11-17T04:43:02.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.",
@@ -975,7 +975,7 @@
       "open_issues": 2,
       "owner": "SHI-Yu-Zhe",
       "repo": "awesome-agi-cocosci",
-      "stars": 399,
+      "stars": 400,
       "topics": [
         "abduction",
         "analogy",
